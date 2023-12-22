@@ -28,23 +28,40 @@ dic_arr = dictionary.read().split()
 
 # print(dic_arr)
 
-prev_no = -10000
-word = ''
+not_in_dic_words = []
+new_name = ''
+names = []
 repeat = False
 
 for ix, x in enumerate(words):
-
     x = x.translate(str.maketrans('', '', string.punctuation))
     x =x.lower()
 
     if x not in dic_arr:
-        print(ix, x)
-        if ix -1 == prev_no:
+        not_in_dic_words.append([ix, x])
 
-            word = word+" "+words[ix-1]+" "+x
-            # print("x: "+x)
-            print("word: "+word)
-        prev_no = ix
+print(not_in_dic_words)
+
+for iy, y in enumerate(not_in_dic_words):
+    if iy==len(not_in_dic_words)-1:
+        break
+    # print(not_in_dic_words[iy][0],not_in_dic_words[iy+1][0] )
+    diff_with_prev_element =not_in_dic_words[iy+1][0] - not_in_dic_words[iy][0]
+
+    if diff_with_prev_element == 1 and not repeat:
+        new_name = not_in_dic_words[iy][1] + " " + not_in_dic_words[iy + 1][1]
+        print(new_name)
+        repeat = True
+    elif diff_with_prev_element == 1 and repeat:
+        new_name = new_name + " " + not_in_dic_words[iy + 1][1]
+
+    elif diff_with_prev_element > 1 and repeat:
+        repeat = False
+        names.append(new_name)
+        new_name = ''
+
+print(names)
+
 
 
 
