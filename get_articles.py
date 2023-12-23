@@ -4,11 +4,12 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+# from selenium import webdriver
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support.wait import WebDriverWait
+# from selenium.webdriver.support import expected_conditions as EC
 
+import time
 
 
 
@@ -23,6 +24,22 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
                           options=options)
 
 driver.get("https://www.straitstimes.com/singapore/businessman-linked-to-money-laundering-accused-left-s-pore-abruptly-in-september")
+
+#log in to ST acc
+driver.find_element(By.ID, 'sph_login').click()
+user = driver.find_element(By.ID, 'IDToken1')
+user.send_keys("terenceteoly@gmail.com")
+password = driver.find_element(By.ID, 'IDToken2')
+password.send_keys("Test6546!")
+driver.find_element(By.ID, 'btnLogin').click()
+
+#dismiss too many acc notification
+time.sleep(7)
+driver.find_element(By.ID, 'btnMysphMsg').click()
+
+
+
+
 
 # links = driver.find_elements("xpath", "//a[@href]")
 # print(links)
