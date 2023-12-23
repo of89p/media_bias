@@ -12,7 +12,7 @@ import re
 # from selenium.webdriver.support import expected_conditions as EC
 
 ST_PASSWORD = ''
-from dev_settings import *
+from private.dev_settings import *
 
 options = Options()
 
