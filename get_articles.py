@@ -25,18 +25,96 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
 
 driver.get("https://www.straitstimes.com/singapore")
 
-#log in to ST acc
-driver.find_element(By.ID, 'sph_login').click()
-user = driver.find_element(By.ID, 'IDToken1')
-user.send_keys("terenceteoly@gmail.com")
-password = driver.find_element(By.ID, 'IDToken2')
-password.send_keys("Test6546!")
-driver.find_element(By.ID, 'btnLogin').click()
 
-#dismiss too many acc notification
-time.sleep(10)
-driver.find_element(By.ID, 'btnMysphMsg').click()
+def log_in():
+    # log in to ST acc
+    driver.find_element(By.ID, 'sph_login').click()
+    user = driver.find_element(By.ID, 'IDToken1')
+    user.send_keys("terenceteoly@gmail.com")
+    password = driver.find_element(By.ID, 'IDToken2')
+    password.send_keys("Test6546!")
+    driver.find_element(By.ID, 'btnLogin').click()
 
+    # dismiss too many acc notification
+    time.sleep(10)
+    driver.find_element(By.ID, 'btnMysphMsg').click()
+    time.sleep(5)
+
+# log_in()
+
+
+#find all a href to articles
+ignore_links = [
+"https://www.straitstimes.com/singapore",
+"https://www.straitstimes.com/singapore/jobs",
+"https://www.straitstimes.com/singapore/housing",
+"https://www.straitstimes.com/singapore/parenting-education",
+"https://www.straitstimes.com/singapore/politics",
+"https://www.straitstimes.com/singapore/health",
+"https://www.straitstimes.com/singapore/transport",
+"https://www.straitstimes.com/singapore/courts-crime",
+"https://www.straitstimes.com/singapore/consumer",
+"https://www.straitstimes.com/singapore/environment",
+"https://www.straitstimes.com/singapore/community",
+"https://www.straitstimes.com/singapore",
+"https://www.straitstimes.com/singapore/jobs",
+"https://www.straitstimes.com/singapore/housing",
+"https://www.straitstimes.com/singapore/parenting-education",
+"https://www.straitstimes.com/singapore/politics",
+"https://www.straitstimes.com/singapore/health",
+"https://www.straitstimes.com/singapore/transport",
+"https://www.straitstimes.com/singapore/courts-crime",
+"https://www.straitstimes.com/singapore/consumer",
+"https://www.straitstimes.com/singapore/environment",
+"https://www.straitstimes.com/singapore/community",
+"https://www.straitstimes.com/singapore",
+"https://www.straitstimes.com/singapore/jobs",
+"https://www.straitstimes.com/singapore/housing",
+"https://www.straitstimes.com/singapore/parenting-education",
+"https://www.straitstimes.com/singapore/politics",
+"https://www.straitstimes.com/singapore/health",
+"https://www.straitstimes.com/singapore/transport",
+"https://www.straitstimes.com/singapore/courts-crime",
+"https://www.straitstimes.com/singapore/consumer",
+"https://www.straitstimes.com/singapore/environment",
+"https://www.straitstimes.com/singapore/community",
+"https://www.straitstimes.com/singapore",
+"https://www.straitstimes.com/singapore/jobs",
+"https://www.straitstimes.com/singapore/housing",
+"https://www.straitstimes.com/singapore/parenting-education",
+"https://www.straitstimes.com/singapore/politics",
+"https://www.straitstimes.com/singapore/health",
+"https://www.straitstimes.com/singapore/transport",
+"https://www.straitstimes.com/singapore/courts-crime",
+"https://www.straitstimes.com/singapore/consumer",
+"https://www.straitstimes.com/singapore/environment",
+"https://www.straitstimes.com/singapore/community",
+"https://www.straitstimes.com/singapore/latest",
+"https://www.straitstimes.com/singapore#scroll-1",
+"https://www.straitstimes.com/singapore#scroll-2",
+"https://www.straitstimes.com/singapore#scroll-3",
+"https://www.straitstimes.com/singapore#scroll-4",
+"https://www.straitstimes.com/singapore#scroll-5",
+"https://www.straitstimes.com/singapore#scroll-6",
+"https://www.straitstimes.com/singapore#scroll-7",
+"https://www.straitstimes.com/singapore#scroll-8",
+"https://www.straitstimes.com/singapore#scroll-9",
+"https://www.straitstimes.com/singapore#scroll-10",
+"https://www.straitstimes.com/singapore#scroll-1",
+"https://www.straitstimes.com/singapore#scroll-2",
+"https://www.straitstimes.com/singapore/jobs",
+"https://www.straitstimes.com/singapore#main-content",
+"https://www.straitstimes.com/singapore#main-content",
+"https://www.straitstimes.com/singapore#"
+]
+
+article_links = []
+
+for x in driver.find_elements(By.XPATH, "//a[@href]"):
+    link = x.get_attribute("href")
+    if link not in ignore_links and "https://www.straitstimes.com/singapore" in link:
+        print(link)
+    article_links.append(link)
 
 
 
