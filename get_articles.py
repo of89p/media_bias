@@ -23,7 +23,7 @@ options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
                           options=options)
 
-driver.get("https://www.straitstimes.com/singapore/businessman-linked-to-money-laundering-accused-left-s-pore-abruptly-in-september")
+driver.get("https://www.straitstimes.com/singapore")
 
 #log in to ST acc
 driver.find_element(By.ID, 'sph_login').click()
@@ -34,7 +34,7 @@ password.send_keys("Test6546!")
 driver.find_element(By.ID, 'btnLogin').click()
 
 #dismiss too many acc notification
-time.sleep(7)
+time.sleep(10)
 driver.find_element(By.ID, 'btnMysphMsg').click()
 
 
