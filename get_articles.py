@@ -13,7 +13,7 @@ import time
 
 
 ST_PASSWORD = ''
-from dev_settings import *
+from private.dev_settings import *
 
 options = Options()
 
@@ -42,7 +42,7 @@ def log_in():
     driver.find_element(By.ID, 'btnMysphMsg').click()
     time.sleep(5)
 
-log_in()
+# log_in()
 
 
 #find all a href to articles
