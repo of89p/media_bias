@@ -10,8 +10,6 @@ import time
 # from selenium.webdriver.support.wait import WebDriverWait
 # from selenium.webdriver.support import expected_conditions as EC
 
-
-
 ST_PASSWORD = ''
 from dev_settings import *
 
@@ -26,7 +24,6 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
                           options=options)
 
 driver.get("https://www.straitstimes.com/singapore")
-
 
 def log_in():
     # log in to ST acc
