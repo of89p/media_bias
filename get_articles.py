@@ -35,10 +35,13 @@ def log_in():
     password.send_keys(ST_PASSWORD)
     driver.find_element(By.ID, 'btnLogin').click()
 
-    # dismiss too many acc notification
-    time.sleep(10)
-    driver.find_element(By.ID, 'btnMysphMsg').click()
-    time.sleep(5)
+    try:
+        # dismiss too many acc notification
+        time.sleep(10)
+        driver.find_element(By.ID, 'btnMysphMsg').click()
+        time.sleep(5)
+    except:
+        pass
 
 # log_in()
 
@@ -117,15 +120,21 @@ def get_all_links():
 
 get_all_links()
 
-# print(article_links)
-# print("Opening link: "+article_links[0])
-driver.get(article_links[0])
 
 
-def obtain_article_info():
+
+
+
+total_arr = []
+def save_as_array(title, author, date, body_text):
+    total_arr.append([title, author, date, body_text])
+
+
+def obtain_article_info(link):
+    driver.get(link)
     #get title
     article_title = driver.find_element(By.CLASS_NAME, 'headline')
-    print(article_title.get_attribute("innerHTML"))
+    article_title=article_title.get_attribute("innerHTML").strip()
 
     #get author
     journalist_container = driver.find_element(By.CLASS_NAME, 'group-info').get_attribute("innerHTML")
@@ -136,13 +145,27 @@ def obtain_article_info():
 
     print("Author: "+author_name+"; Job title: "+job_title)
 
+    #get date published
+    article_date = driver.find_element(By.CLASS_NAME, 'story-postdate')
+    article_date = article_date.get_attribute("innerHTML")
+    print(article_date)
+
     #get body text
+    complete_body_text = ''
     body_text = driver.find_element(By.CLASS_NAME, 'ds-wrapper').get_attribute("innerHTML")
     # print(body_text)
 
     for i in re.findall("<p>(.*?)</p>", body_text):
-        print(i)
+        complete_body_text = complete_body_text + i
+        # print(i)
 
 
-obtain_article_info()
+    save_as_array(article_title,author_name,article_date, complete_body_text)
+
+
+obtain_article_info(article_links[0])
+
+
+print(total_arr)
+
 
