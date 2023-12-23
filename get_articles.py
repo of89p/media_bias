@@ -3,15 +3,17 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
+import time
 
 # from selenium import webdriver
 # from selenium.webdriver.common.by import By
 # from selenium.webdriver.support.wait import WebDriverWait
 # from selenium.webdriver.support import expected_conditions as EC
 
-import time
 
 
+ST_PASSWORD = ''
+from dev_settings import *
 
 options = Options()
 
@@ -32,7 +34,7 @@ def log_in():
     user = driver.find_element(By.ID, 'IDToken1')
     user.send_keys("terenceteoly@gmail.com")
     password = driver.find_element(By.ID, 'IDToken2')
-    password.send_keys("Test6546!")
+    password.send_keys(ST_PASSWORD)
     driver.find_element(By.ID, 'btnLogin').click()
 
     # dismiss too many acc notification
@@ -40,7 +42,7 @@ def log_in():
     driver.find_element(By.ID, 'btnMysphMsg').click()
     time.sleep(5)
 
-# log_in()
+log_in()
 
 
 #find all a href to articles
