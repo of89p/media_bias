@@ -60,7 +60,22 @@ for iy, y in enumerate(not_in_dic_words):
         names.append(new_name)
         new_name = ''
 
+final_names = []
+
+# Check for repeated names
+for x in names:
+    if x not in final_names:
+        final_names.append(x)
+
 print(names)
+print(final_names)
+
+
+
+
+
+#removed: lee, tan, yang,
+#added: singaporean
 
 
 
