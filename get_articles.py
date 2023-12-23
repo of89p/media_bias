@@ -13,7 +13,7 @@ import time
 
 
 ST_PASSWORD = ''
-from private.dev_settings import *
+from dev_settings import *
 
 options = Options()
 
