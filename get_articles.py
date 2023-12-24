@@ -24,7 +24,7 @@ options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
                           options=options)
 
-driver.get("https://www.straitstimes.com/singapore")
+# driver.get("https://www.straitstimes.com/singapore")
 
 def log_in():
     # log in to ST acc
@@ -126,33 +126,54 @@ get_all_links()
 
 
 total_arr = []
-def save_as_array(title, author, date, body_text):
-    total_arr.append([title, author, date, body_text])
+# def save_as_array(title, author, date, body_text):
+#     total_arr.append([title, author, date, body_text])
 
 
 def obtain_article_info(link):
     driver.get(link)
     #get title
-    article_title = driver.find_element(By.CLASS_NAME, 'headline')
-    article_title=article_title.get_attribute("innerHTML").strip()
+    try:
+        article_title = driver.find_element(By.CLASS_NAME, 'headline')
+        article_title=article_title.get_attribute("innerHTML").strip()
+    except:
+        error_text = "cannot get article title for"+link
+        print("ERROR: "+error_text)
+        article_title = "ERROR"
 
     #get author
-    journalist_container = driver.find_element(By.CLASS_NAME, 'group-info').get_attribute("innerHTML")
-    x = journalist_container.split(">")
+    try:
+        journalist_container = driver.find_element(By.CLASS_NAME, 'group-info').get_attribute("innerHTML")
+        x = journalist_container.split(">")
 
-    author_name = x[1][:-3]
-    job_title = x[3][:-5]
+        author_name = x[1][:-3]
+        job_title = x[3][:-5]
+    except:
+        error_text = "cannot get author for"+link
+        print("ERROR: "+error_text)
+        author_name = "ERROR"
 
-    print("Author: "+author_name+"; Job title: "+job_title)
+
+    # print("Author: "+author_name+"; Job title: "+job_title)
 
     #get date published
-    article_date = driver.find_element(By.CLASS_NAME, 'story-postdate')
-    article_date = article_date.get_attribute("innerHTML")
-    print(article_date)
+    try:
+        article_date = driver.find_element(By.CLASS_NAME, 'story-postdate')
+        article_date = article_date.get_attribute("innerHTML")
+    except:
+        error_text = "cannot get published date for"+link
+        print("ERROR: "+error_text)
+        article_date = "ERROR"
+    # print(article_date)
 
     #get body text
     complete_body_text = ''
-    body_text = driver.find_element(By.CLASS_NAME, 'ds-wrapper').get_attribute("innerHTML")
+    try:
+        body_text = driver.find_element(By.CLASS_NAME, 'ds-wrapper').get_attribute("innerHTML")
+    except:
+        error_text = "cannot get published body text for"+link
+        print("ERROR: "+error_text)
+        body_text = "ERROR"
     # print(body_text)
 
     for i in re.findall("<p>(.*?)</p>", body_text):
@@ -160,12 +181,13 @@ def obtain_article_info(link):
         # print(i)
 
 
-    save_as_array(article_title,author_name,article_date, complete_body_text)
+    # save_as_array(article_title,author_name,article_date, complete_body_text)
+    return_arr = [article_title, author_name, article_date, complete_body_text]
+    return return_arr
+
+# obtain_article_info(article_links[0])
 
 
-obtain_article_info(article_links[0])
-
-
-print(total_arr)
+# print(total_arr)
 
 
