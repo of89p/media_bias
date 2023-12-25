@@ -169,15 +169,18 @@ def obtain_article_info(link):
     #get body text
     complete_body_text = ''
     try:
-        body_text = driver.find_element(By.CLASS_NAME, 'ds-wrapper').get_attribute("innerHTML")
+        p_tags = driver.find_elements(By.TAG_NAME, 'p')
+
+        for x in p_tags:
+            complete_body_text = complete_body_text + x.get_attribute("innerHTML")
     except:
         error_text = "cannot get published body text for"+link
         print("ERROR: "+error_text)
         body_text = "ERROR"
     # print(body_text)
 
-    for i in re.findall("<p>(.*?)</p>", body_text):
-        complete_body_text = complete_body_text + i
+    # for i in re.findall("<p>(.*?)</p>", body_text):
+    #     complete_body_text = complete_body_text + i
         # print(i)
 
 

@@ -69,7 +69,7 @@ for ix, x in enumerate(king_arr):
     for iy, y in enumerate(x):
         total_lenth = len(y[1]) + total_lenth
     avg_length = total_lenth/len(x)
-    print("Array no: "+str(ix)+"; avg length: "+str(avg_length))
+    # print("Array no: "+str(ix)+"; avg length: "+str(avg_length))
     if avg_length > 21:
         reject_arr.append(x)
     else:
@@ -110,8 +110,8 @@ for ix, x in enumerate(accept_arr):
 arr_soup = list(dict.fromkeys(arr_soup))
 
 
-with open("MASTER_sg_name_list.txt", "w") as text_file:
+with open("duplicates.txt", "w") as text_file:
     text_file.write("This document contains "+str(len(arr_soup))+" unique words which make up Singaporeans' names.\n")
     for x in arr_soup:
-        out = x.translate(str.maketrans('', '', string.punctuation))
+        out = (x.translate(str.maketrans('', '', string.punctuation))).lower()
         text_file.write(out+"\n")
