@@ -17,7 +17,7 @@ for x in link_arr_all:
         links_arr.append(x)
 
 need_log_in = False
-LIMIT_COUNT = 10
+LIMIT_COUNT = 5
 count = 0
 
 for link in links_arr:
@@ -28,6 +28,7 @@ for link in links_arr:
 
     article_data = obtain_article_info(link, need_log_in=True if count == 0 and need_log_in else False)
 
+    article_author = article_data[1]
     article_date = article_data[2]
     article_text = article_data[3]
 

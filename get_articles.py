@@ -4,6 +4,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 import time
+import re
 
 ST_PASSWORD = ''
 from private.dev_settings import *
@@ -145,10 +146,12 @@ def obtain_article_info(link, need_log_in):
     #GET AUTHOR
     try:
         journalist_container = driver.find_element(By.CLASS_NAME, 'group-info').get_attribute("innerHTML")
-        x = journalist_container.split(">")
+        # x = journalist_container.split(">")
+        #
+        # author_name = x[1][:-3]
+        # job_title = x[3][:-5]
 
-        author_name = x[1][:-3]
-        job_title = x[3][:-5]
+        author_name = re.findall(">(.*?)</a>", str(journalist_container))[0]
     except:
         error_text = "cannot get author for"+link
         print("ERROR: "+error_text)
@@ -176,8 +179,6 @@ def obtain_article_info(link, need_log_in):
         print("ERROR: "+error_text)
         complete_body_text = "ERROR"
 
-
-    # save_as_array(article_title,author_name,article_date, complete_body_text)
     return_arr = [article_title, author_name, article_date, complete_body_text]
     return return_arr
 
