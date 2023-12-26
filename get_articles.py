@@ -18,7 +18,7 @@ options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
                           options=options)
 
-# driver.get("https://www.straitstimes.com/singapore")
+# driver.get_all_politician_names("https://www.straitstimes.com/singapore")
 
 def log_in():
     time.sleep(7)

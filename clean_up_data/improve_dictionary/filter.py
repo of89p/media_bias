@@ -7,7 +7,7 @@ arr = words_all_text.splitlines()
 
 filtered_arr = []
 
-#get all names into this format: [number, name]
+#get_all_politician_names all names into this format: [number, name]
 for x in arr:
     if len(x) != 0 and x[0].isdigit():
         element_break = 0

@@ -1,0 +1,3375 @@
+
+
+<!doctype html>
+<html class="no-js" lang="en">
+<head id="Head1"><meta charset="utf-8" /><meta http-equiv="x-ua-compatible" content="ie=edge" /><title>
+	PARL | List of Current MPs
+</title><meta name="description" content="You may view the list of current Members of Parliament here." /><meta name="viewport" content="width=device-width, initial-scale=1" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/Images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /><link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Roboto:400,700" rel="stylesheet" />
+    <style> html {display:none;} </style>
+    <script>
+        if (self === top) {
+            document.documentElement.style.display = 'block';
+        }
+        else {
+            top.location = self.location;
+        }
+    </script>
+    <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script>
+<style type="text/css" media="all">@media screen and (max-width: 600px) { div.list-of-mps-wrap > div { padding-left: 10px; padding-right: 10px; }</style><link rel="canonical" href="https://www.parliament.gov.sg/mps/list-of-current-mps" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/normalize.css?v=637988325320000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/main.css?v=638199465510000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/bootstrap.min.css?v=637988325320000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/jquery-ui.css?v=637988325320000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/owl.carousel.css?v=637988325320000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/owl.theme.css?v=637988325330000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/style.css?v=637988325330000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/ionicons.min.css?v=637988325320000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/jquery.bxslider.css?v=637988325320000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/seating-plan.css?v=637988325330000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/sgds.css?v=637988325330000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/sgds-dss.css?v=638049097420000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/bootstrap-multiselect.css?v=637988325320000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/font-awesome.css?v=637988325320000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/LiteTooltip.1.1.min.css?v=637988325320000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/global/owl.transitions.css?v=637988325330000000" type="text/css" rel="stylesheet" /></head>
+<body class="main-body">
+    <script src="/js/plugins.js"></script>
+    <script src="/js/main.js"></script>
+    <script src="/js/sgds.js"></script>
+    <script src="/js/main-navbar.js"></script>
+    <form method="post" action="./list-of-current-mps" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl07_TSM" id="ctl07_TSM" value="" />
+<input type="hidden" name="ctl08_TSSM" id="ctl08_TSSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="XUJvKZsBKiwLMT7jjHaTB9NFIk5qkphVwO95Uj31WBa+C6RjKyDFH07ntFQYUFIQ8DUW8wN6JqSzEZcdtZ6sBn/yK5qRw60gjsnkcJ8y9n8=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMdYEsCHmLSovwDpxmCw0GUzX_Hr5B89aQVpxN0Q-5LwEvDbCJsFzUl8VZXQ2yJggA2&amp;t=638344371423008439" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"en","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402271999999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, MMMM d, yyyy h:mm:ss tt","LongDatePattern":"dddd, MMMM d, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM d","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"M/d/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]},"eras":[1,"A.D.",null,0]};//]]>
+</script>
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl07_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3ae441b334-44bb-41f8-b8ef-43fec6e58811%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D00E8343" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="yrMOplFXct1NEnnK2V+95ZwFZwXxPnJGG6IIoD47l0EXCBupqOn8ScoQQI63Yp8p7TfPkqqPDvH85zqQQhZA9Phsf93SnLMuUOVfYXksk0SPisU/ZM0FlySFpYusnZG+" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+<input type="hidden" name="ctl00$ctl07" id="ctl07" />
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.setServerId("ctl07", "ctl00$ctl07");
+Sys.Application._enableHistoryInScriptManager();
+//]]>
+</script>
+
+        <div id="wrapper">
+            <div id="header">
+
+<div class='sfContentBlock'><nav class="sgds-navbar" role="navigation">
+<div class="sgds-container">
+<div class="sgds-navbar-brand">
+<a class="sgds-navbar-item" href="/">
+<img src="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/Images/parliament_logo.png" alt="Parliament of Singapore" class="logo" style="width: 102px;" />
+</a>
+<div class="sgds-navbar-burger" data-target="parliament-navbar">
+<span></span>
+<span></span>
+<span></span>
+</div>
+</div>
+<ul id="parliament-navbar" class="sgds-navbar-menu">
+    <li class="sgds-navbar-item is-hidden-desktop">
+    <div>
+    <div class="field has-addons">
+    <div class="control is-expanded">
+    <input class="input is-fullwidth" id="nav-4-search-mobile" type="text" placeholder="Search within this Site" name="nav-4-search-mobile" aria-label="search" />
+    <span class="search-bar-icon-mobile sgds-icon sgds-icon-search"></span>
+    </div>
+    </div>
+    </div>
+    </li>
+    <!--About Us-->
+    <li class="sgds-navbar-item is-expanded has-dropdown is-hoverable is-mega">
+    <a class="navbar-item has-children" href="/about-us/parliament-information/functions">About Us</a>
+    <span class="sgds-icon sgds-icon-chevron-down dropdown-icon"></span>
+    <div class="sgds-navbar-dropdown ">
+    <div class="container">
+    <ul class="dropdown-menu-desc">
+        <li>Please click the links on the right to find out more on what Parliament is about.
+        </li>
+    </ul>
+    <ul class="dropdown-lvl-2">
+        <li class="nav-item">
+        <a class="menu-nav-header">Parliament Information</a>
+        <ul>
+            <li><a href="/about-us/parliament-information/functions">Functions</a></li>
+            <li><a href="/about-us/parliament-information/sitting-of-parliament">Sitting of
+            Parliament</a></li>
+        </ul>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header">Structure</a>
+        <ul>
+            <li><a href="/about-us/structure/system-of-government">System of Government</a>
+            </li>
+            <li><a href="/about-us/structure/speaker-of-parliament">Speaker of
+            Parliament</a></li>
+            <li><a href="/about-us/structure/the-cabinet">The Cabinet</a></li>
+            <li><a href="/about-us/structure/leader-of-the-house">Leader of the House</a>
+            </li>
+            <li><a href="/about-us/structure/leader-of-the-opposition">Leader of the
+            Opposition</a></li>
+            <li><a href="/about-us/structure/party-whip">Government Party Whip</a></li>
+            <li><a href="/about-us/structure/members-of-parliament">Members of
+            Parliament</a></li>
+            <li><a href="/about-us/structure/select-committees">Select Committees</a></li>
+            <li><a href="/about-us/structure/parliament-secretariat">Parliament
+            Secretariat</a></li>
+        </ul>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header">Facilities</a>
+        <ul>
+            <li><a href="/about-us/facilities/the-house-we-built">The Chamber</a></li>
+            <li><a href="/about-us/facilities/architecture-of-the-house">Architecture of the
+            House</a></li>
+        </ul>
+        </li>
+    </ul>
+    </div>
+    </div>
+    </li>
+    <!--About Us-->
+    <li class="sgds-navbar-item is-expanded has-dropdown is-hoverable is-mega">
+    <a class="navbar-item has-children" target="_self" href="/mps/find-mps-in-my-constituency">MPs</a>
+    <span class="sgds-icon sgds-icon-chevron-down dropdown-icon"></span>
+    <div class="sgds-navbar-dropdown ">
+    <div class="container">
+    <ul class="dropdown-menu-desc">
+        <li>Please click the links on the right to find out more on MP related information.</li>
+    </ul>
+    <ul class="dropdown-lvl-2">
+        <li class="nav-item">
+        <a href="/mps/find-mps-in-my-constituency" class="menu-nav-header no__child">Find MP(s) in My
+        Constituency</a>
+        </li>
+        <li class="nav-item">
+        <a href="/mps/list-of-current-mps" class="menu-nav-header no__child">List of Current MPs</a>
+        </li>
+        <li class="nav-item">
+        <a href="/mps/constituency-boundaries-map" class="menu-nav-header no__child">Constituency Boundaries Map</a>
+        </li>
+        <li class="nav-item">
+        <a href="/docs/default-source/mp-seating-plan/14th-parl-chamber-seating-plan.pdf" class="menu-nav-header no__child">Seating Plan</a>
+        </li>
+        <li class="nav-item">
+        <a href="/mps/composite-photos" class="menu-nav-header no__child">Composite Photos</a>
+        </li>
+    </ul>
+    </div>
+    </div>
+    </li>
+    <li class="sgds-navbar-item is-expanded has-dropdown is-hoverable is-mega">
+    <a class="navbar-item has-children" href="/parliamentary-business/official-reports-(parl-debates)">Parliamentary Business</a>
+    <span class="sgds-icon sgds-icon-chevron-down dropdown-icon"></span>
+    <div class="sgds-navbar-dropdown ">
+    <div class="container">
+    <ul class="dropdown-menu-desc">
+        <li>Please click the links on the right to access the various Parliamentary Business
+        items.</li>
+    </ul>
+    <ul class="dropdown-lvl-2">
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/parliamentary-business/official-reports-(parl-debates)">Official Reports
+        (Parl Debates)</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/parliamentary-business/select-committee-reports">Select Committee
+        Reports</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/parliamentary-business/bills-introduced">Bills
+        Introduced</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/parliamentary-business/votes-and-proceedings">Votes and Proceedings</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/parliamentary-business/order-paper">Order
+        Papers</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/parliamentary-business/papers-presented-to-parliament">Papers Presented
+        to Parliament</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/parliamentary-business/standing-orders">Standing
+        Orders</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/parliamentary-business/glossary">Glossary</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/parliamentary-business/committee-of-privileges---complaint-against-ms-raeesah-khan">Committee
+        of Privileges - Complaint Against Ms Raeesah Khan</a>
+        </li>
+        <li class="nav-item"><a class="menu-nav-header no__child" href="/parliamentary-business/select-committee-on-deliberate-online-falsehoods---causes-consequences-and-countermeasures">Select
+        Committee on Deliberate Online Falsehoods &ndash; Causes, Consequences and
+        Countermeasures</a>
+        </li>
+    </ul>
+    </div>
+    </div>
+    </li>
+    <li class="sgds-navbar-item is-expanded has-dropdown is-hoverable is-mega">
+    <a class="navbar-item has-children" href="/newsroom/events">Newsroom</a>
+    <span class="sgds-icon sgds-icon-chevron-down dropdown-icon"></span>
+    <div class="sgds-navbar-dropdown ">
+    <div class="container">
+    <ul class="dropdown-menu-desc">
+        <li>Please click the links on the right to find out more about events happening at
+        Parliament.</li>
+    </ul>
+    <ul class="dropdown-lvl-2">
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/newsroom/speaker's-blog">Speaker's Blog</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/newsroom/events">Events</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/newsroom/press-releases">Press Releases</a>
+        </li>
+    </ul>
+    </div>
+    </div>
+    </li>
+    <li class="sgds-navbar-item is-expanded has-dropdown is-hoverable is-mega">
+    <a class="navbar-item has-children" target="_self" href="/visit-learn/visiting">Visit &amp;
+    Learn</a>
+    <span class="sgds-icon sgds-icon-chevron-down dropdown-icon"></span>
+    <div class="sgds-navbar-dropdown ">
+    <div class="container">
+    <ul class="dropdown-menu-desc">
+        <li>Please click the links on the right to learn more about visiting Parliament.</li>
+    </ul>
+    <ul class="dropdown-lvl-2">
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/visit-learn/visiting">Visiting</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/visit-learn/my-parliament-journey">My Parliament
+        Journey</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/visit-learn/virtual-tour-of-parliament-house">Virtual Tour of Parliament
+        House</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/visit-learn/educational-resources">Educational
+        Resources</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/visit-learn/parlconnect">ParlConnect</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/visit-learn/parliament-shop">Parliament Shop</a>
+        </li>
+        <li class="nav-item">
+        <a href="/docs/default-source/default-document-library/fa_parliament-e-brochure.pdf" class="menu-nav-header no__child">Parliament Brochure</a></li>
+    </ul>
+    </div>
+    </div>
+    </li>
+    <li class="sgds-navbar-item is-expanded has-dropdown is-hoverable is-mega">
+    <a class="navbar-item has-children" target="_self" href="/history/historical-development">History</a>
+    <span class="sgds-icon sgds-icon-chevron-down dropdown-icon"></span>
+    <div class="sgds-navbar-dropdown ">
+    <div class="container">
+    <ul class="dropdown-menu-desc">
+        <li>Please click the links on the right to learn more about the history of Parliament.
+        </li>
+    </ul>
+    <ul class="dropdown-lvl-2">
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/history/list-of-former-speakers">List of Former
+        Speakers</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/history/list-of-mps-by-parliament">List of MPs By
+        Parliament</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/history/sessions-of-parliament">Sessions of
+        Parliament</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/history/historical-development">Historical
+        Development</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/history/history-of-the-mace">History of the
+        Mace</a>
+        </li>
+        <li class="nav-item">
+        <a class="menu-nav-header no__child" href="/history/proclamation-of-independence">Proclamation
+        of Independence</a>
+        </li>
+    </ul>
+    </div>
+    </div>
+    </li>
+    <li class="sgds-navbar-item is-expanded has-dropdown is-hoverable is-mega">
+    <a class="navbar-item has-children" target="_self">I am ...</a>
+    <span class="sgds-icon sgds-icon-chevron-down dropdown-icon"></span>
+    <div class="sgds-navbar-dropdown ">
+    <div class="sgds-container persona-menu">
+    <div class="col is-6">
+    <div class="dss-row">
+    <div class="col text-center">
+    <img alt="" class="persona-icon-dropdown" src="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/Images/red-visitor_icon.png" />
+    <p>I am a <strong>Visitor</strong>
+    <span class="sgds-icon sgds-icon-chevron-right padding-left"></span>
+    </p>
+    </div>
+    <div class="col">
+    <ul class="dropdown-lvl-2">
+        <li class="nav-item">
+        <a class="menu-nav-header with-text">I wish to...</a>
+        <ul>
+            <li><a href="/about-us/what-we-do/functions">Know about
+            Parliament</a></li>
+            <li><a href="/visit-learn/my-parliament-journey">Book a tour</a>
+            </li>
+            <li><a href="/visit-learn/visiting">Visit Parliament House</a></li>
+            <li><a href="/visit-learn/virtual-tour-of-parliament-house">View a
+            Virtual Tour of Parliament House</a></li>
+        </ul>
+        </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    <div class="col is-6">
+    <div class="dss-row">
+    <div class="col is-6 text-center">
+    <img alt="" class="persona-icon-dropdown" src="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/Images/red-researcher_icon.png" />
+    <p>I am a <strong>Researcher</strong>
+    <span class="sgds-icon sgds-icon-chevron-right padding-left"></span>
+    </p>
+    </div>
+    <div class="col">
+    <ul class="dropdown-lvl-2">
+        <li class="nav-item">
+        <a class="menu-nav-header with-text">I wish to...</a>
+        <ul>
+            <li><a href="https://sprs.parl.gov.sg/search/report.jsp?currentPubID=00011197-WA">Access
+            latest Official Report</a></li>
+            <li><a href="https://sprs.parl.gov.sg/search/">Search for Official
+            Reports</a></li>
+            <li><a href="https://sprs.parl.gov.sg/selectcommittee/home">Search
+            for Select Committee reports</a></li>
+            <li><a href="/parliamentary-business/order-paper">Access Order
+            Papers</a></li>
+            <li><a href="/parliamentary-business/bills-introduced">Search for
+            Bills</a></li>
+        </ul>
+        </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </li>
+    <li class="sgds-navbar-item is-hidden-mobile">
+    <button class="sgds-button is-white is-large search-toggle2">
+    <span class="sgds-icon sgds-icon-search"></span>
+    </button>
+    </li>
+</ul>
+</div>
+</nav>
+<div id="parliament-search">
+<div class="sgds-container">
+<div>
+<div class="field has-addons padding--sm">
+<div class="control has-icons-left is-expanded">
+<input class="input is-fullwidth is-borderless is-shadowless" id="nav-4-search" type="text" placeholder="Search within this Site" autocomplete="off" aria-label="search" />
+<span class="icon is-left">
+<em class="search-bar-icon sgds-icon sgds-icon-search"></em>
+</span>
+</div>
+<div class="control">
+<button type="button" class="sgds-button" id="search-query">SEARCH</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+ </div><script type="text/javascript">function frmCheck() {
+	if ($("#searchbar").val() === '') {
+		return false;
+	} else {
+		return true;
+	}
+}
+
+$(document).ready(function(){
+	$('#searchbar').on("keyup", function(e) {
+	  if (e.which === 13)
+	  {
+			if (frmCheck()) {
+			    window.open('http://www.google.com/cse?cx=003458834176260139333:8m5pivnmkqy&q=' + escape($("#searchbar").val()));
+			}
+	  }
+	});
+
+	$('#searchbtn').click(function() {
+	    if (frmCheck()) {
+	        window.open('http://www.google.com/cse?cx=003458834176260139333:8m5pivnmkqy&q=' + escape($("#searchbar").val()));
+	    }
+
+	    return false;
+    });
+});
+</script>
+
+            </div>
+            <div class="container subpage-content">
+
+<div class="breadcrumbs-container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="breadcrumbs-wrap">
+                    <ul class="breadcrumbs">
+                                <li><a href="/">Home </a></li>
+                                <li><a href="/mps">MPs </a></li>
+                                <li>List of Current MPs</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="resize-wrap">
+                    <ul class="resize-btn">
+                        <li>
+                            <a class="fontsize-decrease" style="cursor: pointer;">
+                                <span class="sgds-icon sgds-icon-typography"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="fontsize-default" style="cursor: pointer;">
+                                <span class="sgds-icon sgds-icon-typography"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="fontsize-increase" style="cursor: pointer;">
+                                <span class="sgds-icon sgds-icon-typography"></span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+<script type="text/javascript">window.addEventListener("load", function() {
+    if (isMobileDevice() && screen.width < 769) {
+        $("div.list-of-mps-wrap").each(function() {
+            var mpSortName = $(this).find("div.mp-sort-name");
+            var clonedMPSortName = mpSortName.clone();
+            clonedMPSortName.find("a").remove();
+            var brTags = clonedMPSortName.find("br");
+            if (brTags.length > 0) {
+                clonedMPSortName.find("br")[0].remove();
+
+            }
+            clonedMPSortName.css("margin-top", "10px");
+            clonedMPSortName.css("padding-left", "25px");
+            clonedMPSortName.css("padding-right", "25px");
+            $(this).append(clonedMPSortName);
+            mpSortName.find("br").remove();
+            mpSortName.find("span").remove();
+        });
+    }
+});</script>
+                <div class="row">
+                    <div class="col-md-9 col-xs-12">
+
+<div class='sfContentBlock'><h1><strong>LIST OF CURRENT MPs</strong></h1>
+
+ </div>
+<script type="text/javascript" src="/js/list.min.js"></script>
+
+<!-- START OF SEARCH -->
+<div class="row">
+    <div class="current-mp-wrap">
+        <h4 class="form-title">SEARCH MPs</h4>
+
+        <form method="post">
+
+            <input type="hidden" name="csrfToken" value="yfURHi3nHqreQzhbuzfQ8s/XZwbdnR/XaDo1osU3tjM=" />
+
+            <label class="formgap" for="Name">By Name</label>
+            <label class="formhiddentxt hide" for="Name">Please do not key in special characters</label>
+            <input class="form-field-namepc whitebg" id="Name" name="Name" placeholder="Search MP Name" type="text" value="" />
+
+            <label class="formspace"></label>
+
+            <label class="formgap" for="TypeOfMP">By Type of MP</label>
+            <select class="title-select" id="TypeOfMP" name="TypeOfMP"><option value="">All MPs</option>
+<option value="emp">Elected MPs</option>
+<option value="Non-Constituency Member of Parliament">Non-Constituency Member of Parliament</option>
+<option value="Nominated Member of Parliament">Nominated Member of Parliament</option>
+</select>
+
+            <label class="formgap" for="Constituency">By Constituency</label>
+            <select class="title-select" id="Constituency" name="Constituency"><option value="">All Constituencies</option>
+<option value="Aljunied GRC">Aljunied GRC</option>
+<option value="Ang Mo Kio GRC">Ang Mo Kio GRC</option>
+<option value="Bishan-Toa Payoh GRC">Bishan-Toa Payoh GRC</option>
+<option value="Bukit Batok">Bukit Batok</option>
+<option value="Bukit Panjang">Bukit Panjang</option>
+<option value="Chua Chu Kang GRC">Chua Chu Kang GRC</option>
+<option value="East Coast GRC">East Coast GRC</option>
+<option value="Holland-Bukit Timah GRC">Holland-Bukit Timah GRC</option>
+<option value="Hong Kah North">Hong Kah North</option>
+<option value="Hougang">Hougang</option>
+<option value="Jalan Besar GRC">Jalan Besar GRC</option>
+<option value="Jurong GRC">Jurong GRC</option>
+<option value="Kebun Baru">Kebun Baru</option>
+<option value="MacPherson">MacPherson</option>
+<option value="Marine Parade GRC">Marine Parade GRC</option>
+<option value="Marsiling-Yew Tee GRC">Marsiling-Yew Tee GRC</option>
+<option value="Marymount">Marymount</option>
+<option value="Mountbatten">Mountbatten</option>
+<option value="Nee Soon GRC">Nee Soon GRC</option>
+<option value="Pasir Ris-Punggol GRC">Pasir Ris-Punggol GRC</option>
+<option value="Pioneer">Pioneer</option>
+<option value="Potong Pasir">Potong Pasir</option>
+<option value="Punggol West">Punggol West</option>
+<option value="Radin Mas">Radin Mas</option>
+<option value="Sembawang GRC">Sembawang GRC</option>
+<option value="Sengkang GRC">Sengkang GRC</option>
+<option value="Tampines GRC">Tampines GRC</option>
+<option value="Tanjong Pagar GRC">Tanjong Pagar GRC</option>
+<option value="West Coast GRC">West Coast GRC</option>
+<option value="Yio Chu Kang">Yio Chu Kang</option>
+<option value="Yuhua">Yuhua</option>
+<option value="Non-Constituency Member of Parliament">Non-Constituency Member of Parliament</option>
+<option value="Nominated Member of Parliament">Nominated Member of Parliament</option>
+</select>
+
+            <input type="submit" name="submitButton" class="bills-reset-button" value="Reset" id="Reset" />
+            <input type="submit" name="submitButton" class="current-mp-button" value="Search" id="Search" />
+        </form>
+    </div>
+</div>
+<!-- END OF SEARCH -->
+<!-- START OF CURRENT LIST OF MPS - SORT LIST -->
+<div id="currentlistofmps">
+        <!-- START OF SORTING CATEGORY HEADERS -->
+        <div class="row mp-list-sort">
+
+            <!-- SORT BY LAST NAME -->
+            <div class="col-md-6 col-xs-12">
+                <h4 class="sort" data-sort="name">Sort by Last Name</h4>
+            </div>
+
+            <!-- SORT BY CONSISTENCY -->
+            <div class="col-md-6 col-xs-12">
+                <h4 class="sort" data-sort="constituency">Sort by Constituency</h4>
+            </div>
+        </div>
+        <!-- END OF SORTING CATEGORY HEADERS -->
+        <!-- START OF MP LISTINGS -->
+        <ul class="list">
+
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/angweineng.jpg?sfvrsn=a33a8609_4" class="img-responsive" alt="Ang Wei Neng">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/ang-wei-neng">Mr Ang Wei Neng</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Ang
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            West Coast GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/baey-yam-keng-resized-(web).jpg?sfvrsn=76944608_0" class="img-responsive" alt="Baey Yam Keng resized (web)">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/baey-yam-keng">Mr Baey Yam Keng</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Baey
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Tampines GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/ccdc9724dbcb5f64e2b198ff00006af031.png?sfvrsn=e1c84008_0" class="img-responsive" alt="CC">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/cheryl-chan-wei-ling">Miss Cheryl Chan Wei Ling</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Chan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            East Coast GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/chan-chun-sing-new.jpg?sfvrsn=f99f4c08_0" class="img-responsive" alt="Chan Chun Sing new">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/chan-chun-sing">Mr Chan Chun Sing</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Chan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Tanjong Pagar GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/ncmps-and-nmps-image-library/usha-chandradas.jpg?sfvrsn=f5867ee2_0" class="img-responsive" alt="Usha Chandradas">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/chandradas-usha-ranee">Ms Usha Chandradas</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Chandradas
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nominated Member of Parliament
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/sms-chee_business-suit_2.jpeg?sfvrsn=3564206e_0" class="img-responsive" alt="SMS Chee_Business Suit_2">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/chee-hong-tat">Mr Chee Hong Tat</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Chee
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Bishan-Toa Payoh GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/edwardparlphoto.jpg?sfvrsn=993e4c08_0" class="img-responsive" alt="EdwardParlPhoto">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/edward-chia-bing-hui">Mr Edward Chia Bing Hui</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Chia
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Holland-Bukit Timah GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/chong-kee-hiong.jpg?sfvrsn=49d54c08_0" class="img-responsive" alt="CHONG Kee Hiong">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/chong-kee-hiong">Mr Chong Kee Hiong</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Chong
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Bishan-Toa Payoh GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/desmond-choo-1.jpg?sfvrsn=6b1f4c08_0" class="img-responsive" alt="Desmond Choo 1">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/desmond-choo">Mr Desmond Choo</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Choo
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Tampines GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/louise-1-01-400x514.jpg?sfvrsn=ab684c08_0" class="img-responsive" alt="Louise-1-01-400x514">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/louis-chua-kheng-wee">Mr Chua Kheng Wee Louis</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Chua
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Sengkang GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/pap-eric-chua-swee-leong.jpg?sfvrsn=a54308_0" class="img-responsive" alt="PAP Eric Chua Swee Leong">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/eric-chua-swee-leong">Mr Eric Chua</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Chua
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Tanjong Pagar GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/keith20230717_kc-01.jpg?sfvrsn=4ca9c175_0" class="img-responsive" alt="Keith20230717_KC-01">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/chua-tiang-choon-keith">Mr Keith Chua</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Chua
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nominated Member of Parliament
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/darryl_david_parliament_photo_web.jpg?sfvrsn=eb3a8609_4" class="img-responsive" alt="Darryl David">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/darryl-david">Mr Darryl David</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                David
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Ang Mo Kio GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/deputy-speaker-de-souza.jpg?sfvrsn=bedbee23_0" class="img-responsive" alt="Deputy Speaker De Souza">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/christopher-de-souza">Mr Christopher de Souza</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                De
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Holland-Bukit Timah GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/foo-mee-har-cropped.jpg?sfvrsn=32ed4c08_0" class="img-responsive" alt="Foo Mee Har Cropped">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/foo-mee-har">Ms Foo Mee Har</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Foo
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            West Coast GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/min-grace-fu_biz-suit-parl-(2018-05-16)579824dbcb5f64e2b198ff00006af031.jpg?sfvrsn=64c74008_0" class="img-responsive" alt="Min Grace Fu_biz suit-Parl (2018-05-16)">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/grace-fu-hai-yien">Ms Grace Fu Hai Yien</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Fu
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Yuhua
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/minister-photo-2-(cab-size).png?sfvrsn=2cd34c08_0" class="img-responsive" alt="Minister Photo 2 (cab size)">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/gan-kim-yong">Mr Gan Kim Yong</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Gan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Chua Chu Kang GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/pap-ms-gan-siow-huang.jpg?sfvrsn=56a44308_0" class="img-responsive" alt="PAP Ms Gan Siow Huang">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/gan-siow-huang">Ms Gan Siow Huang</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Gan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Marymount
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/gan-thiam-poh_resized.jpg?sfvrsn=95388609_4" class="img-responsive" alt="Gan Thiam Poh">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/gan-thiam-poh">Mr Gan Thiam Poh</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Gan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Ang Mo Kio GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/geraldgiam_400x514_zoomout2.jpg?sfvrsn=3e724c08_0" class="img-responsive" alt="GeraldGiam_400x514_ZoomOut2">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/gerald-giam-yean-song">Mr Gerald Giam Yean Song</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Giam
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Aljunied GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/derrick-goh_public-facing-photo.jpg?sfvrsn=39054c08_0" class="img-responsive" alt="Derrick GOH_Public Facing Photo">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/derrick-goh-soon-hee">Mr Derrick Goh</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Goh
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nee Soon GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/he-ting-ru-1-01-400x514.jpg?sfvrsn=1d684c08_0" class="img-responsive" alt="He-Ting-Ru-1-01-400x514">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/he-ting-ru">Ms He Ting Ru</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                He
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Sengkang GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/prof-hengcheehow.gif?sfvrsn=fc068609_10" class="img-responsive" alt="Heng Chee How">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/heng-chee-how">Mr Heng Chee How</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Heng
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Jalan Besar GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/dpm_hengsweekeat_cvphoto.jpg?sfvrsn=143d4c08_0" class="img-responsive" alt="DPM_HengSweeKeat_CVphoto">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/heng-swee-keat">Mr Heng Swee Keat</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Heng
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            East Coast GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/ingkiriwang-shawn-wei-zhong-(temasek-feb-2020)-r-(003).jpg?sfvrsn=24014c08_0" class="img-responsive" alt="INGKIRIWANG SHAWN WEI ZHONG (TEMASEK FEB 2020) R (003)">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/shawn-huang-wei-zhong">Mr Shawn Huang Wei Zhong</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Huang
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Jurong GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/indranee-(1).jpg?sfvrsn=43ef4c08_1" class="img-responsive" alt="Indranee (1)">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/indranee-rajah">Ms Indranee Rajah</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Indranee
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Tanjong Pagar GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/siswaran.jpg?sfvrsn=23174c08_0" class="img-responsive" alt="SIswaran">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/s-iswaran">Mr S Iswaran</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Iswaran
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            West Coast GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/dr-janil.jpg?sfvrsn=4cff8609_2" class="img-responsive" alt="Janil">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/janil-puthucheary">Dr Janil Puthucheary</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Janil
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Pasir Ris-Punggol GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/amykhor.jpg?sfvrsn=cbc54c08_0" class="img-responsive" alt="AmyKhor">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/amy-khor-lean-suan">Dr Amy Khor Lean Suan</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Khor
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Hong Kah North
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/kpk-suit.jpg?sfvrsn=d3674c08_0" class="img-responsive" alt="KPK Suit">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/koh-poh-koon">Dr Koh Poh Koon</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Koh
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Tampines GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/henrykwek.jpg?sfvrsn=dbd38609_4" class="img-responsive" alt="Henry Kwek">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/kwek-hian-chuan-henry">Mr Kwek Hian Chuan Henry</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Kwek
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Kebun Baru
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/min-desmond-lee92182165ac8e4b4ca501abb8a9a55692.png?sfvrsn=95966abb_0" class="img-responsive" alt="Min Desmond Lee">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/desmond-lee">Mr Desmond Lee</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Lee
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            West Coast GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/pm&#39;s-passport-size-photo.jpg?sfvrsn=682f8609_6" class="img-responsive" alt="Lee Hsien Loong">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/lee-hsien-loong">Mr Lee Hsien Loong</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Lee
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Ang Mo Kio GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/mark-lee-sccci-2022_3.jpg?sfvrsn=bf3aa892_0" class="img-responsive" alt="Mark Lee-SCCCI 2022_3">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/mark-lee-kean-phi">Mr Mark Lee</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Lee
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nominated Member of Parliament
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/lmw_3082_1-(3).jpg?sfvrsn=73324c08_0" class="img-responsive" alt="LMW_3082_1 (3)">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/leong-mun-wai">Mr Leong Mun Wai</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Leong
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Non-Constituency Member of Parliament
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/liang-eng-hwa.jpg?sfvrsn=2e654c08_0" class="img-responsive" alt="Liang Eng Hwa">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/liang-eng-hwa">Mr Liang Eng Hwa</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Liang
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Bukit Panjang
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/limbiowchuan.png?sfvrsn=de218609_4" class="img-responsive" alt="Lim Biow Chuan">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/lim-biow-chuan">Mr Lim Biow Chuan</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Lim
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Mountbatten
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/jamus-1-01-400x514.jpg?sfvrsn=ee684c08_0" class="img-responsive" alt="Jamus-1-01-400x514">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/jamus-jerome-lim-chee-wui">Assoc Prof Jamus Jerome Lim</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Lim
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Sengkang GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/sylvia-1-01-01-400x514.jpg?sfvrsn=21674c08_0" class="img-responsive" alt="Sylvia-1-01-01-400x514">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/sylvia-lim">Ms Sylvia Lim</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Lim
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Aljunied GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/lim-wee-kiak_web.jpg?sfvrsn=14398609_4" class="img-responsive" alt="Lim Wee Kiak">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/lim-wee-kiak">Dr Lim Wee Kiak</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Lim
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Sembawang GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/low-yen-ling.jpg?sfvrsn=bcd58609_2" class="img-responsive" alt="Low Yen Ling">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/low-yen-ling">Ms Low Yen Ling</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Low
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Chua Chu Kang GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/200_mariam-jaafar---boston-consulting-group.jpg?sfvrsn=3e3e4c08_0" class="img-responsive" alt="200_Mariam Jaafar - Boston Consulting Group">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/mariam-jaafar">Ms Mariam Jaafar</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Mariam
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Sembawang GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/min-mas.jpg?sfvrsn=7ecc4c08_0" class="img-responsive" alt="Min Mas">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/masagos-zulkifli-bin-masagos-mohamad">Mr Masagos Zulkifli Bin Masagos Mohamad</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Masagos Mohamad
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Tampines GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/official-passport-photo-new.jpg?sfvrsn=b6d34c08_0" class="img-responsive" alt="Official Passport photo-new">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/mohamad-maliki-bin-osman">Dr Mohamad Maliki Bin Osman</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Mohamad
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            East Coast GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/pap-mohd-fahmi-aliman.jpg?sfvrsn=33a14308_0" class="img-responsive" alt="PAP Mohd Fahmi Aliman">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/mohd-fahmi-bin-aliman">Mr Mohd Fahmi Bin Aliman</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Mohd Fahm
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Marine Parade GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/faisal-1-01-400x514.jpg?sfvrsn=88694c08_0" class="img-responsive" alt="Faisal-1-01-400x514">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/muhamad-faisal-bin-abdul-manap">Mr Muhamad Faisal Bin Abdul Manap</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Muhamad
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Aljunied GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/muhammad.gif?sfvrsn=b6cf8609_4" class="img-responsive" alt="Muhammad Faishal">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/muhammad-faishal-ibrahim">Assoc Prof Dr Muhammad Faishal Ibrahim</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Muhammad
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nee Soon GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/8200f6e0-0af6-4a78-8996-be7fd900e731.jpeg?sfvrsn=f7044c08_0" class="img-responsive" alt="8200F6E0-0AF6-4A78-8996-BE7FD900E731">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/murali-pillai">Mr Murali Pillai SC</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Murali
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Bukit Batok
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/pap-ms-nadia-ahmad-samdin.jpg?sfvrsn=6fa14308_0" class="img-responsive" alt="PAP Ms Nadia Ahmad Samdin">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/nadia-ahmad-samdin">Ms Nadia Ahmad Samdin</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Nadia
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Ang Mo Kio GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/ng-eng-hen-minister&#39;s-photo-23-mar-2015_web.jpg?sfvrsn=3c278609_6" class="img-responsive" alt="Ng Eng Hen">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/ng-eng-hen">Dr Ng Eng Hen</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Ng
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Bishan-Toa Payoh GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/dslr_9867-1200-soft-ori-400-x-514.jpg?sfvrsn=64094c08_0" class="img-responsive" alt="DSLR_9867 1200 soft ori 400 x 514">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/ng-ling-ling">Ms Ng Ling Ling</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Ng
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Ang Mo Kio GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/louisng.jpg?sfvrsn=53cc8609_4" class="img-responsive" alt="Louis Ng">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/louis-ng-kok-kwang">Mr Louis Ng Kok Kwang</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Ng
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nee Soon GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/ong-hua-han-photo.jpg?sfvrsn=5135b203_0" class="img-responsive" alt="Ong Hua Han Photo">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/ong-hua-han">Mr Ong Hua Han</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Ong
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nominated Member of Parliament
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/rachel-ong-photograph1.jpg?sfvrsn=16304c08_0" class="img-responsive" alt="Rachel Ong Photograph1">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/rachel-ong-sin-yen">Miss Rachel Ong</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Ong
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            West Coast GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/minister-ong.jpg?sfvrsn=f404aa90_0" class="img-responsive" alt="Minister Ong">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/ong-ye-kung">Mr Ong Ye Kung</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Ong
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Sembawang GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/profile-pic-neil-parekh.jpeg?sfvrsn=c8dc24bf_0" class="img-responsive" alt="Profile Pic Neil Parekh">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/parekh-nimil-rajnikant">Mr Neil Parekh Nimil Rajnikant</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Parekh
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nominated Member of Parliament
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/img_6813-joan-pereira2_web.jpg?sfvrsn=f9218609_4" class="img-responsive" alt="Joan Pereir">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/joan-pereira">Ms Joan Pereira</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Pereira
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Tanjong Pagar GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/parl-web---profile-photo-(denise-phua)-(1).jpg?sfvrsn=3fd14c08_0" class="img-responsive" alt="Parl Web - Profile Photo (Denise Phua) (1)">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/denise-phua-lay-peng">Ms Denise Phua Lay Peng</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Phua
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Jalan Besar GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/photo1.jpg?sfvrsn=de0b4c08_0" class="img-responsive" alt="photo1">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/hazel-poa">Ms Hazel Poa</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Poa
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Non-Constituency Member of Parliament
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/pap-ms-poh-li-san.jpg?sfvrsn=49a04308_0" class="img-responsive" alt="PAP Ms Poh Li San">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/poh-li-san">Ms Poh Li San</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Poh
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Sembawang GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/pritam-1-01-400x514.jpg?sfvrsn=df6a4c08_0" class="img-responsive" alt="Pritam-1-01-400x514">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/pritam-singh">Mr Pritam Singh</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Pritam
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Aljunied GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/rahayumahzam.jpg?sfvrsn=42358609_6" class="img-responsive" alt="Rahayu Mahzam">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/rahayu-mahzam">Ms Rahayu Mahzam</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Rahayu
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Jurong GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/ncmps-and-nmps-image-library/razwana-begum.jpg?sfvrsn=ddeae99a_0" class="img-responsive" alt="Razwana Begum">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/razwana-begum-bt-abdul-rahi">Assoc Prof Razwana Begum Abdul Rahim</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Razwana Begum
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nominated Member of Parliament
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/saktiandi_photo1604128dbcb5f64e2b198ff00006af031.jpg?sfvrsn=6f1e4c08_0" class="img-responsive" alt="Saktiandi_photo1">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/saktiandi-supaat">Mr Saktiandi Supaat</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Saktiandi
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Bishan-Toa Payoh GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/mr-seah-kian-peng1.jpg?sfvrsn=e00e4c08_0" class="img-responsive" alt="Mr Seah Kian Peng1">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/seah-kian-peng">Mr Seah Kian Peng</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Seah
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Marine Parade GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/see-jinli.jpg?sfvrsn=b324b13f_0" class="img-responsive" alt="SEE Jinli">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/see-jinli">Ms See Jinli Jean</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                See
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nominated Member of Parliament
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/min-business-attire---2.jpg?sfvrsn=403d4c08_0" class="img-responsive" alt="Min Business Attire - 2">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/k-shanmugam">Mr K Shanmugam</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Shanmugam
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nee Soon GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/sharaelt.jpg?sfvrsn=9f3c4c08_0" class="img-responsive" alt="SharaelT">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/sharael-taha">Mr Sharael Taha</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                SHARAEL
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Pasir Ris-Punggol GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/simann.jpg?sfvrsn=f61e4c08_0" class="img-responsive" alt="SimAnn">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/sim-ann">Ms Sim Ann</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Sim
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Holland-Bukit Timah GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/syp-photo-2020.jpg?sfvrsn=dc1e4c08_0" class="img-responsive" alt="SYP Photo 2020">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/sitoh-yih-pin">Mr Sitoh Yih Pin</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Sitoh
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Potong Pasir
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/formal-pichs.jpg?sfvrsn=e1c74c08_0" class="img-responsive" alt="formal picHS">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/hany-soh-hui-bin">Ms Hany Soh</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Soh
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Marsiling-Yew Tee GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/sc3_2116_passport.jpg?sfvrsn=3f554108_0" class="img-responsive" alt="SC3_2116_passport">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/sun-xueling">Ms Sun Xueling</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Sun
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Punggol West
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/profile-photo-(1)6139320426e64ee9b3ced81eb19eaf3f.jpg?sfvrsn=9fdf7cd2_0" class="img-responsive" alt="Profile photo (1)">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/syed-harun-bin-taha-alhabsyi">Dr Syed Harun Alhabsyi</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Taha Alhabsyi
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nominated Member of Parliament
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/pap-alvin-tan-sheng-hui5a3d28dbcb5f64e2b198ff00006af031.jpg?sfvrsn=61624c08_0" class="img-responsive" alt="PAP Alvin Tan Sheng Hui">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/alvin-tan-sheng-hui">Mr Alvin Tan</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Tan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Tanjong Pagar GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/pap-ms-carrie-tan-huimin.jpg?sfvrsn=c5e4c08_0" class="img-responsive" alt="PAP Ms Carrie Tan Huimin">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/carrie-tan">Ms Carrie Tan</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Tan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nee Soon GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/dennis-1-01-400x514.jpg?sfvrsn=50684c08_0" class="img-responsive" alt="Dennis-1-01-400x514">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/dennis-tan-lip-fong">Mr Dennis Tan Lip Fong</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Tan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Hougang
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/20161216_07.jpg?sfvrsn=7a3c4c08_0" class="img-responsive" alt="20161216_07">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/desmond-tan-kok-ming">Mr Desmond Tan</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Tan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Pasir Ris-Punggol GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/jessica-tan-158_web.jpg?sfvrsn=e6c78609_2" class="img-responsive" alt="Jessica Tan">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/jessica-tan-soon-neo">Ms Jessica Tan Soon Neo</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Tan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            East Coast GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/ce_imda.jpg?sfvrsn=77084c08_0" class="img-responsive" alt="CE_IMDA">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/tan-kiat-how">Mr Tan Kiat How</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Tan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            East Coast GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/min-tan-see-leng---photo2d8a5afe3e03f44368ed489d4f9cc7003.jpg?sfvrsn=b19aebd6_0" class="img-responsive" alt="Min Tan See Leng - Photo2">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/tan-see-leng">Dr Tan See Leng</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Tan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Marine Parade GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/tanwumeng.jpg?sfvrsn=f338609_4" class="img-responsive" alt="Tan Wu Meng">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/tan-wu-meng">Dr Tan Wu Meng</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Tan
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Jurong GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/patrick-tay2.jpg?sfvrsn=9dd48609_4" class="img-responsive" alt="Patrick Tay">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/patrick-tay-teck-guan">Mr Patrick Tay Teck Guan</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Tay
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Pioneer
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/dpm-photo---suit.jpg?sfvrsn=36ff4008_0" class="img-responsive" alt="DPM Photo - Suit">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/teo-chee-hean">Mr Teo Chee Hean</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Teo
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Pasir Ris-Punggol GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/min-josephine---2bdb9f636e5284009b2768d632e777ea6.jpg?sfvrsn=d591b699_0" class="img-responsive" alt="Min Josephine - 2">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/josephine-teo">Mrs Josephine Teo</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Teo
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Jalan Besar GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/rjt.jpg?sfvrsn=34a95408_0" class="img-responsive" alt="RJT">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/raj-joshua-thomas">Mr Raj Joshua Thomas</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Thomas
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Nominated Member of Parliament
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/tplphoto.jpg?sfvrsn=8bdb4c08_0" class="img-responsive" alt="TPLPhoto">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/tin-pei-ling">Ms Tin Pei Ling</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Tin
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            MacPherson
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/edwintong.jpg?sfvrsn=81228609_4" class="img-responsive" alt="Edwin Tong">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/edwin-tong-chun-fai">Mr Edwin Tong Chun Fai</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Tong
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Marine Parade GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/Image-Library/vikram-nair.jpg?sfvrsn=62358609_4" class="img-responsive" alt="Vikram Nair">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/vikram-nair">Mr Vikram Nair</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Vikram
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Sembawang GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/min_vb_studio_white-037ec8f28dbcb5f64e2b198ff00006af031.jpg?sfvrsn=d3d04c08_0" class="img-responsive" alt="MIN_VB_studio_white-037">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/vivian-balakrishnan">Dr Vivian Balakrishnan</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Vivian
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Holland-Bukit Timah GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/pap-dr-wan-rizal.jpg?sfvrsn=a55c4c08_0" class="img-responsive" alt="PAP Dr Wan Rizal">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/wan-rizal">Dr Wan Rizal</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Wan Rizal
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Jalan Besar GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/donwee.jpg?sfvrsn=2b5e7c4d_0" class="img-responsive" alt="DonWee">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/don-wee-boon-hong">Mr Don Wee</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Wee
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Chua Chu Kang GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/lawrencewong.jpg?sfvrsn=5b1c4c08_0" class="img-responsive" alt="LawrenceWong">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/lawrence-wong">Mr Lawrence Wong</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Wong
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Marsiling-Yew Tee GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/xie-yq.jpg?sfvrsn=e3314c08_0" class="img-responsive" alt="XIE YQ">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/xie-yao-quan">Mr Xie Yao Quan</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Xie
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Jurong GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/alex-yam_02.jpg?sfvrsn=ecd34c08_0" class="img-responsive" alt="Alex Yam_02">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/alex-yam-ziming">Mr Alex Yam Ziming</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Yam
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Marsiling-Yew Tee GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/parliamentary-copy.jpeg?sfvrsn=b8084c08_0" class="img-responsive" alt="Parliamentary Copy">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/yeo-wan-ling">Ms Yeo Wan Ling</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Yeo
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Pasir Ris-Punggol GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/yiphonw_003.png?sfvrsn=362276ac_0" class="img-responsive" alt="YipHonW_003">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/yip-hon-weng">Mr Yip Hon Weng</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Yip
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Yio Chu Kang
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/melvin-yong_parlweb.jpg?sfvrsn=69ac4408_0" class="img-responsive" alt="Melvin Yong_ParlWeb">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/melvin-yong-yik-chye">Mr Melvin Yong Yik Chye</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Yong
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Radin Mas
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/6198_passport.jpg?sfvrsn=6b554108_0" class="img-responsive" alt="6198_passport">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/zaqy-mohamad">Mr Zaqy Mohamad</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Zaqy
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Marsiling-Yew Tee GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+                <li>
+                    <div class="row list-of-mps-wrap">
+                        <div class="col-md-6 col-xs-12">
+                            <!-- MP IMAGE -->
+                            <div class="col-md-4 col-xs-8">
+                                <img src="/images/default-source/default-album/70ee0ce9-4d18-44eb-a4f3-d079bfea94cd.jpeg?sfvrsn=f5024c08_0" class="img-responsive" alt="70EE0CE9-4D18-44EB-A4F3-D079BFEA94CD">
+                            </div>
+
+                            <!-- MP NAME -->
+                            <div class="col-md-8 col-xs-12 mp-sort-name">
+                                <a href="/mps/current-list-of-mps/mp/details/zhulkarnain-abdul-rahim">Mr Zhulkarnain Abdul Rahim</a>
+                                                            </div>
+
+                            <!-- MP LAST NAME -->
+                            <div class="name mp-last-name">
+                                Zhulkarnain
+                            </div>
+                        </div>
+
+                        <!-- MP CONSTITUENCY -->
+                        <div class="col-md-6 col-xs-11 mp-sort constituency">
+                            Chua Chu Kang GRC
+                        </div>
+                        <input type="hidden" class="lastUpdatedContent" value="18 Dec 2023 08:17:52">
+                    </div>
+                </li>
+        </ul>
+        <!-- END OF MP LISTINGS -->
+</div>
+<!-- END OF CURRENT LIST OF MPS - SORT LIST -->
+
+<script>
+    // SORT - NAME, CONSTITUENCY & PARTY
+    var options = {
+        valueNames: ['name', 'constituency', 'party']
+    };
+
+    var userList = new List('currentlistofmps', options);
+
+    function checkInput(inputStr) {
+        return /^$|^([a-zA-Z0-9 _-]+)$/.test(inputStr);
+    };
+
+    $(document).ready(function () {
+        $('#Search').click(function () {
+            var keyword = $('#Name').val();
+            if (keyword && !checkInput(keyword)) {
+                $('.formhiddentxt').removeClass("hide");
+                return false;
+            }
+        });
+    });
+</script>
+                    </div>
+
+                    <div class="col-md-3 col-xs-12">
+                        <div class="sidebar-wrap">
+
+
+<div class="col-md-12 col-xs-12">
+    <div class="sidebar-nav-image">
+        <img src="/Sitefinity/WebsiteTemplates/Parliament/App_Themes/Parliament/Images/structure_icon.png" alt="structure icon">
+    </div>
+
+    <div class="sp-sidebar-nav">
+
+        <h3>MPs</h3>
+
+        <ul class="arrow-ul">
+        <li>
+            <a href="/mps/find-mps-in-my-constituency" class="" target="_self">Find MP(s) in My Constituency</a>
+
+        </li>
+        <li>
+            <a href="/mps/list-of-current-mps" class="active" target="_self">List of Current MPs</a>
+
+        </li>
+        <li>
+            <a href="/mps/constituency-boundaries-map" class="" target="_self">Constituency Boundaries Map</a>
+
+        </li>
+        <li>
+            <a href="/mps/seating-plan" class="" target="_self">Seating Plan</a>
+
+        </li>
+        <li>
+            <a href="/mps/composite-photos" class="" target="_self">MP Composite Photos</a>
+
+        </li>
+        </ul>
+
+
+
+
+    </div>
+
+</div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+	        <div id="footer">
+
+<div class='sfContentBlock'><div class="sgds-footer">
+<div class="top-section bg-main-page">
+<div class="sgds-container">
+<div class="dss-row">
+<div class="col is-8 left-quicklinks">
+<div>
+<h4 class="PARL_">Parliament of Singapore</h4>
+</div>
+<div class="foot-links">
+<a href="/careers">Careers</a>
+<a href="/parliamentary-business/glossary">Glossary</a>
+<a href="/green-dashboard">Green Dashboard</a>
+</div>
+</div>
+<div class="col is-4 iso-bca-logo">
+<img src="/images/default-source/header-footer/iso_logo.png" data-displaymode="Original" alt="iso_logo" />
+<div class="col  right-quicklinks">
+<a href="/contact-us">Contact Us</a>
+<a href="https://form.gov.sg/6343d1e41b0bfb0011ec6521">Feedback</a>&nbsp;<a href="https://www.parliament.gov.sg/faqs">FAQ</a>&nbsp;
+<div class="social-icons">
+<a target="_blank" href="https://www.facebook.com/SingaporeParliament/" class="fb"><span class="sgds-icon sgds-icon-facebook-alt"></span></a>
+<a target="_blank" href="https://www.instagram.com/parl_sg/" class="instagram"><span class="sgds-icon sgds-icon-instagram"></span></a>
+</div>
+</div>
+<div class="col short-text">
+<p>Best Viewed using Internet Explorer 11, Firefox 66, Google Chrome 73,
+Safari
+12 and Microsoft Edge 18</p>
+</div>
+</div>
+</div>
+<div class="dss-row top-border" style="margin-top: 0!important;">
+<div class="col-md-9 pl-0">
+<div class="quicklinks-three">
+<a target="_blank" href="https://www.tech.gov.sg/report_vulnerability">Report
+Vulnerability</a>
+<a href="/privacy-statement">Privacy Statement</a>
+<a href="/terms-of-use">Terms of use</a>
+<a href="/sitemap">Sitemap</a>
+<a target="_blank" href="https://www.reach.gov.sg/">Reach<span class="sgds-icon sgds-icon-external"></span></a>
+<a target="_blank" href="https://www.gov.sg/">Gov.sg<span class="sgds-icon sgds-icon-external"></span></a>
+</div>
+</div>
+<div class="col-md-3 pr-0">
+<p class="desktop-right-only copyright" style="margin-bottom: 0;">&copy; 2023
+Government of Singapore</p>
+<span id="lastModifiedDate" class="desktop-right-only">Last Updated</span></div>
+</div>
+</div>
+</div>
+</div>
+
+ </div>
+				<!-- LAST UPDATED DATE -->
+				<div class="lastupdated-wrap">
+					<div class="container">
+						<div class="col-md-12 col-xs-12 lastupdated-text">
+							<p>This website is optimised for Chrome 68, 67, Safari 11, 10, Internet Explorer 11, 10, Firefox 61, 60 and Microsoft Edge 42, 41.</p>
+							<p><span id="lastModifiedDate" style="font-style:italic;">Last Updated 13/01/2023</span></p>
+                            <input type="hidden" name="ctl00$dssLatestDate" id="dssLatestDate" value="13 Jan 2023" />
+						</div>
+					</div>
+				</div>
+	        </div>
+        </div>
+        <script>
+            // TABS
+            $(function () {
+                $("#tabs").tabs();
+            });
+
+            $('#accordion:nth-child(1n)').accordion({
+			    collapsible: true,
+			    active: false,
+			    icons: { "header": "ui-icon-triangle-1-s", "activeHeader": "ui-icon-triangle-1-n" },
+			    autoHeight: false,
+			    navigation: true,
+			    heightStyle: "content"
+		    });
+		</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl07_TSM');  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-22141125-1', 'auto');
+  ga('send', 'pageview');
+
+//]]>
+</script>
+</form>
+    <script>
+        window.addEventListener('load', function () {
+            var latestDate = new Date($("#dssLatestDate").val());
+            $("input.lastUpdatedContent").each(function (index) {
+                var elementDate = new Date($(this).val());
+                if (latestDate < elementDate) latestDate = elementDate;
+            });
+
+            $("input.lastUpdatedContentEvents, input.lastUpdatedContentSpeakersBlog, input.lastUpdatedContentGlossaryTerm").each(function (index) {
+                var elementDate = new Date($(this).val());
+                latestDate = elementDate;
+            });
+
+            $("#lastModifiedDate").text("Last Updated " + convertDate(latestDate));
+        });
+
+        const monthNames = ["January", "February", "March", "April", "May", "June",
+            "July", "August", "September", "October", "November", "December"
+        ];
+        function convertDate(d) {
+            function pad(s) {
+                return (s < 10) ? '0' + s : s;
+            };
+            return [pad(d.getDate()), pad(monthNames[d.getMonth()]), d.getFullYear()].join(' ');
+
+        }
+    </script>
+</body>
+</html>
