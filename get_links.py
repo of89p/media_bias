@@ -2,7 +2,7 @@ import string
 import time
 from get_articles import obtain_article_info
 
-f = open("links.txt", "r")
+f = open("links_34_32.txt", "r")
 words_all_text=f.read()
 
 arr = words_all_text.splitlines()

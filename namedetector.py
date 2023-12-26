@@ -14,7 +14,7 @@ from get_articles import obtain_article_info
 
 links_arr = []
 
-f = open("links.txt", "r")
+f = open("links_34_32.txt", "r")
 links=f.read()
 link_arr_all = links.splitlines()
 
