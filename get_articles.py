@@ -21,14 +21,20 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
 # driver.get("https://www.straitstimes.com/singapore")
 
 def log_in():
+    time.sleep(7)
     # log in to ST acc
-    driver.find_element(By.ID, 'sph_login').click()
-    user = driver.find_element(By.ID, 'IDToken1')
-    user.send_keys("terenceteoly@gmail.com")
-    password = driver.find_element(By.ID, 'IDToken2')
-    password.send_keys(ST_PASSWORD)
-    driver.find_element(By.ID, 'btnLogin').click()
+    try:
+        driver.find_element(By.ID, 'sph_login').click()
+        user = driver.find_element(By.ID, 'IDToken1')
+        user.send_keys("terenceteoly@gmail.com")
+        password = driver.find_element(By.ID, 'IDToken2')
+        password.send_keys(ST_PASSWORD)
+        driver.find_element(By.ID, 'btnLogin').click()
+    except:
+        error_text = "cannot log in"
+        print("ERROR: " + error_text)
 
+    # DISMISS TOO MANY ACC NOTIFICATION T0 ALLOW SITE TO DELETE OLD LOGIN COOKIES
     try:
         # dismiss too many acc notification
         time.sleep(10)
@@ -41,78 +47,78 @@ def log_in():
 
 
 #find all a href to articles
-article_links = []
-def get_all_links():
-    ignore_links = [
-    "https://www.straitstimes.com/singapore",
-    "https://www.straitstimes.com/singapore/jobs",
-    "https://www.straitstimes.com/singapore/housing",
-    "https://www.straitstimes.com/singapore/parenting-education",
-    "https://www.straitstimes.com/singapore/politics",
-    "https://www.straitstimes.com/singapore/health",
-    "https://www.straitstimes.com/singapore/transport",
-    "https://www.straitstimes.com/singapore/courts-crime",
-    "https://www.straitstimes.com/singapore/consumer",
-    "https://www.straitstimes.com/singapore/environment",
-    "https://www.straitstimes.com/singapore/community",
-    "https://www.straitstimes.com/singapore",
-    "https://www.straitstimes.com/singapore/jobs",
-    "https://www.straitstimes.com/singapore/housing",
-    "https://www.straitstimes.com/singapore/parenting-education",
-    "https://www.straitstimes.com/singapore/politics",
-    "https://www.straitstimes.com/singapore/health",
-    "https://www.straitstimes.com/singapore/transport",
-    "https://www.straitstimes.com/singapore/courts-crime",
-    "https://www.straitstimes.com/singapore/consumer",
-    "https://www.straitstimes.com/singapore/environment",
-    "https://www.straitstimes.com/singapore/community",
-    "https://www.straitstimes.com/singapore",
-    "https://www.straitstimes.com/singapore/jobs",
-    "https://www.straitstimes.com/singapore/housing",
-    "https://www.straitstimes.com/singapore/parenting-education",
-    "https://www.straitstimes.com/singapore/politics",
-    "https://www.straitstimes.com/singapore/health",
-    "https://www.straitstimes.com/singapore/transport",
-    "https://www.straitstimes.com/singapore/courts-crime",
-    "https://www.straitstimes.com/singapore/consumer",
-    "https://www.straitstimes.com/singapore/environment",
-    "https://www.straitstimes.com/singapore/community",
-    "https://www.straitstimes.com/singapore",
-    "https://www.straitstimes.com/singapore/jobs",
-    "https://www.straitstimes.com/singapore/housing",
-    "https://www.straitstimes.com/singapore/parenting-education",
-    "https://www.straitstimes.com/singapore/politics",
-    "https://www.straitstimes.com/singapore/health",
-    "https://www.straitstimes.com/singapore/transport",
-    "https://www.straitstimes.com/singapore/courts-crime",
-    "https://www.straitstimes.com/singapore/consumer",
-    "https://www.straitstimes.com/singapore/environment",
-    "https://www.straitstimes.com/singapore/community",
-    "https://www.straitstimes.com/singapore/latest",
-    "https://www.straitstimes.com/singapore#scroll-1",
-    "https://www.straitstimes.com/singapore#scroll-2",
-    "https://www.straitstimes.com/singapore#scroll-3",
-    "https://www.straitstimes.com/singapore#scroll-4",
-    "https://www.straitstimes.com/singapore#scroll-5",
-    "https://www.straitstimes.com/singapore#scroll-6",
-    "https://www.straitstimes.com/singapore#scroll-7",
-    "https://www.straitstimes.com/singapore#scroll-8",
-    "https://www.straitstimes.com/singapore#scroll-9",
-    "https://www.straitstimes.com/singapore#scroll-10",
-    "https://www.straitstimes.com/singapore#scroll-1",
-    "https://www.straitstimes.com/singapore#scroll-2",
-    "https://www.straitstimes.com/singapore/jobs",
-    "https://www.straitstimes.com/singapore#main-content",
-    "https://www.straitstimes.com/singapore#main-content",
-    "https://www.straitstimes.com/singapore#"
-    ]
-
-    for x in driver.find_elements(By.XPATH, "//a[@href]"):
-        link = x.get_attribute("href")
-        if link not in ignore_links and "https://www.straitstimes.com/singapore" in link:
-            article_links.append(link)
-
-get_all_links()
+# article_links = []
+# def get_all_links():
+#     ignore_links = [
+#     "https://www.straitstimes.com/singapore",
+#     "https://www.straitstimes.com/singapore/jobs",
+#     "https://www.straitstimes.com/singapore/housing",
+#     "https://www.straitstimes.com/singapore/parenting-education",
+#     "https://www.straitstimes.com/singapore/politics",
+#     "https://www.straitstimes.com/singapore/health",
+#     "https://www.straitstimes.com/singapore/transport",
+#     "https://www.straitstimes.com/singapore/courts-crime",
+#     "https://www.straitstimes.com/singapore/consumer",
+#     "https://www.straitstimes.com/singapore/environment",
+#     "https://www.straitstimes.com/singapore/community",
+#     "https://www.straitstimes.com/singapore",
+#     "https://www.straitstimes.com/singapore/jobs",
+#     "https://www.straitstimes.com/singapore/housing",
+#     "https://www.straitstimes.com/singapore/parenting-education",
+#     "https://www.straitstimes.com/singapore/politics",
+#     "https://www.straitstimes.com/singapore/health",
+#     "https://www.straitstimes.com/singapore/transport",
+#     "https://www.straitstimes.com/singapore/courts-crime",
+#     "https://www.straitstimes.com/singapore/consumer",
+#     "https://www.straitstimes.com/singapore/environment",
+#     "https://www.straitstimes.com/singapore/community",
+#     "https://www.straitstimes.com/singapore",
+#     "https://www.straitstimes.com/singapore/jobs",
+#     "https://www.straitstimes.com/singapore/housing",
+#     "https://www.straitstimes.com/singapore/parenting-education",
+#     "https://www.straitstimes.com/singapore/politics",
+#     "https://www.straitstimes.com/singapore/health",
+#     "https://www.straitstimes.com/singapore/transport",
+#     "https://www.straitstimes.com/singapore/courts-crime",
+#     "https://www.straitstimes.com/singapore/consumer",
+#     "https://www.straitstimes.com/singapore/environment",
+#     "https://www.straitstimes.com/singapore/community",
+#     "https://www.straitstimes.com/singapore",
+#     "https://www.straitstimes.com/singapore/jobs",
+#     "https://www.straitstimes.com/singapore/housing",
+#     "https://www.straitstimes.com/singapore/parenting-education",
+#     "https://www.straitstimes.com/singapore/politics",
+#     "https://www.straitstimes.com/singapore/health",
+#     "https://www.straitstimes.com/singapore/transport",
+#     "https://www.straitstimes.com/singapore/courts-crime",
+#     "https://www.straitstimes.com/singapore/consumer",
+#     "https://www.straitstimes.com/singapore/environment",
+#     "https://www.straitstimes.com/singapore/community",
+#     "https://www.straitstimes.com/singapore/latest",
+#     "https://www.straitstimes.com/singapore#scroll-1",
+#     "https://www.straitstimes.com/singapore#scroll-2",
+#     "https://www.straitstimes.com/singapore#scroll-3",
+#     "https://www.straitstimes.com/singapore#scroll-4",
+#     "https://www.straitstimes.com/singapore#scroll-5",
+#     "https://www.straitstimes.com/singapore#scroll-6",
+#     "https://www.straitstimes.com/singapore#scroll-7",
+#     "https://www.straitstimes.com/singapore#scroll-8",
+#     "https://www.straitstimes.com/singapore#scroll-9",
+#     "https://www.straitstimes.com/singapore#scroll-10",
+#     "https://www.straitstimes.com/singapore#scroll-1",
+#     "https://www.straitstimes.com/singapore#scroll-2",
+#     "https://www.straitstimes.com/singapore/jobs",
+#     "https://www.straitstimes.com/singapore#main-content",
+#     "https://www.straitstimes.com/singapore#main-content",
+#     "https://www.straitstimes.com/singapore#"
+#     ]
+#
+#     for x in driver.find_elements(By.XPATH, "//a[@href]"):
+#         link = x.get_attribute("href")
+#         if link not in ignore_links and "https://www.straitstimes.com/singapore" in link:
+#             article_links.append(link)
+#
+# get_all_links()
 
 
 
@@ -120,13 +126,14 @@ get_all_links()
 
 
 total_arr = []
-# def save_as_array(title, author, date, body_text):
-#     total_arr.append([title, author, date, body_text])
 
 
-def obtain_article_info(link):
+def obtain_article_info(link, need_log_in):
     driver.get(link)
-    #get title
+    if need_log_in:
+        log_in()
+
+    #GET TITLE
     try:
         article_title = driver.find_element(By.CLASS_NAME, 'headline')
         article_title=article_title.get_attribute("innerHTML").strip()
@@ -135,7 +142,7 @@ def obtain_article_info(link):
         print("ERROR: "+error_text)
         article_title = "ERROR"
 
-    #get author
+    #GET AUTHOR
     try:
         journalist_container = driver.find_element(By.CLASS_NAME, 'group-info').get_attribute("innerHTML")
         x = journalist_container.split(">")
@@ -147,10 +154,7 @@ def obtain_article_info(link):
         print("ERROR: "+error_text)
         author_name = "ERROR"
 
-
-    # print("Author: "+author_name+"; Job title: "+job_title)
-
-    #get date published
+    #GET DATE PUBLISHED
     try:
         article_date = driver.find_element(By.CLASS_NAME, 'story-postdate')
         article_date = article_date.get_attribute("innerHTML")
@@ -158,9 +162,9 @@ def obtain_article_info(link):
         error_text = "cannot get published date for"+link
         print("ERROR: "+error_text)
         article_date = "ERROR"
-    # print(article_date)
 
-    #get body text
+
+    #GET BODY TEXT
     complete_body_text = ''
     try:
         p_tags = driver.find_elements(By.TAG_NAME, 'p')
@@ -170,21 +174,11 @@ def obtain_article_info(link):
     except:
         error_text = "cannot get published body text for"+link
         print("ERROR: "+error_text)
-        body_text = "ERROR"
-    # print(body_text)
-
-    # for i in re.findall("<p>(.*?)</p>", body_text):
-    #     complete_body_text = complete_body_text + i
-        # print(i)
+        complete_body_text = "ERROR"
 
 
     # save_as_array(article_title,author_name,article_date, complete_body_text)
     return_arr = [article_title, author_name, article_date, complete_body_text]
     return return_arr
-
-# obtain_article_info(article_links[0])
-
-
-# print(total_arr)
 
 

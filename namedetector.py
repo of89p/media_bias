@@ -21,7 +21,8 @@ for x in link_arr_all:
     if x.startswith("https://www.straitstimes.com/singapore/politics/"):
         links_arr.append(x)
 
-LIMIT_COUNT = 200
+need_log_in = True
+LIMIT_COUNT = 2
 count = 0
 
 total_arr = []
@@ -34,7 +35,7 @@ for link in links_arr:
 
     # words_all_text = x[3]
 
-    words_all_text = obtain_article_info(link)[3]
+    words_all_text = obtain_article_info(link, need_log_in=True if count == 0 and need_log_in else False)[3]
     # print(words_all_text)
 
 
@@ -130,13 +131,5 @@ for link in links_arr:
 
 total_count = Counter(total_arr)
 print(total_count)
-
-
-
-    #removed: lee, tan, yang, ee, see, su, chi
-    #added: singaporean
-
-
-
 
 
