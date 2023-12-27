@@ -1,5 +1,6 @@
 from get_articles import obtain_article_info
 from get_links_updated import get_links
+import export_as_json
 import time
 from collections import Counter
 import datetime
@@ -13,7 +14,7 @@ total_found_names = []
 # link_arr_all = links.splitlines()
 
 link_arr_all = get_links(30)
-link_arr_all = link_arr_all.append(get_links(31))
+# link_arr_all = link_arr_all.append(get_links(31))
 
 a = open("./clean_up_data/get_all_politician_names/politician_names.txt", "r")
 politician_names=a.read()
@@ -25,8 +26,8 @@ for x in link_arr_all:
 
 print("Found "+str(len(links_arr))+" articles")
 
-need_log_in = True
-LIMIT_COUNT = 60
+need_log_in = False
+LIMIT_COUNT = 5
 count = 0
 
 for link in links_arr:
@@ -45,6 +46,7 @@ for link in links_arr:
     for name in politician_names_arr:
         if name in article_text and name not in found_names:
             found_names.append(name)
+            export_as_json.check_if_alr_exist(name, article_date)
 
     # print("Article published on: "+str(article_date))
     print("Names found: "+str(found_names))
@@ -55,7 +57,7 @@ for link in links_arr:
 
     count += 1
     print("Article " + str(count))
-    time.sleep(5)
+    time.sleep(2)
 
 # file_name = str(datetime.datetime.now()) +".txt"
 # with open(file_name, "w") as text_file:
