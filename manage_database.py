@@ -10,7 +10,8 @@ c = conn.cursor()
 #             date_mentioned text,
 #             article_title text,
 #             article_author text,
-#             article_link text
+#             article_link text,
+#             XML int
 #             )""")
 
 
@@ -52,16 +53,45 @@ c = conn.cursor()
 # update_date_mentioned("Lee Hsien Loong", "30 jan 2021")
 
 
-def insert_name_instance(name, date, article_title, article_author, article_link):
+def insert_name_instance(name, date, article_title, article_author, article_link, xml):
     with conn:
         c.execute("SELECT * FROM count_names ORDER BY id DESC LIMIT 1")
         new_id = c.fetchone()[0] + 1
 
-        c.execute("INSERT INTO count_names VALUES (:id, :politician_name, :date_mentioned, :article_title, :article_author, :article_link)",
-                  {'id': new_id, 'politician_name': name, 'date_mentioned': date, 'article_title': article_title, 'article_author': article_author, 'article_link':article_link})
+    c.execute("INSERT INTO count_names VALUES (:id, :politician_name, :date_mentioned, :article_title, :article_author, :article_link, :XML)",
+            {'id': new_id, 'politician_name': name, 'date_mentioned': date, 'article_title': article_title, 'article_author': article_author, 'article_link':article_link, 'XML':xml})
+    conn.commit()
+    print("NOTE: Added "+name+" to database")
 
-insert_name_instance("J S Mill", "20 aug 2022", "test", "test", "test")
 
-conn.commit()
+def get_database_values(name, xml):
+    if not xml[0]:
+        with conn:
+            c.execute("SELECT * FROM count_names WHERE politician_name=:politician_name",{"politician_name":name})
+            return c.fetchall()
+    else:
+        xml = xml[1]
+        with conn:
+            c.execute("SELECT * FROM count_names WHERE politician_name=:politician_name AND XML=:xml",{"politician_name":name, "xml":xml})
+            return c.fetchall()
 
-conn.close()
+# insert_name_instance("J S Mill", "20 aug 2022", "test", "test", "test")
+
+
+# def delete_rows(id):
+#     with conn:
+#         try:
+#             c.execute("DELETE from count_names where id = :id", {"id":id})
+#             conn.commit()
+#         except:
+#             print("id "+str(id)+" already deleted")
+#
+# #range (x,y) includes x but doesn't include y
+# for x in range(2,220):
+#     delete_rows(x)
+
+
+# conn.close()
+
+
+#2-219;219-490
