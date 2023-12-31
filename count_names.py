@@ -30,23 +30,16 @@ for x in link_arr_all:
 
 print("Found "+str(len(links_arr))+" articles"+"\n")
 
-# def internet_on():
-#     try:
-#         request.urlopen('http://216.58.192.142', timeout=1)
-#         return True
-#     except request.URLError as err:
-#         return False
+
 
 need_log_in = False
 LIMIT_COUNT = 3000
 count = 0
-ended_halfway = False
+ended_halfway = (False, "https://www.straitstimes.com/singapore/courts-crime/probation-report-called-for-youth-who-cheated-microsoft-of-laptops-worth-193k")
 
-def resume_from_interuption():
-    pass
+if ended_halfway[0]:
+    link_arr_all = link_arr_all[link_arr_all.index(ended_halfway[1]):]
 
-if ended_halfway:
-    resume_from_interuption()
 
 for link in links_arr:
     if count == LIMIT_COUNT:
@@ -72,7 +65,7 @@ for link in links_arr:
     for name in politician_names_arr:
         if name in article_text and name not in found_names:
             found_names.append(name)
-            # manage_database.insert_name_instance(name, article_date, article_title, article_author, link, current_xml)
+            manage_database.insert_name_instance(name, article_date, article_title, article_author, link, current_xml)
             # export_as_json.check_if_alr_exist(name, article_date)
 
     # print("Article published on: "+str(article_date))
@@ -83,7 +76,6 @@ for link in links_arr:
         total_found_names.append(x)
 
     count += 1
-    # time.sleep(5)
 
 # file_name = str(datetime.datetime.now()) +".txt"
 # with open(file_name, "w") as text_file:

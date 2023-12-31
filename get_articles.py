@@ -139,7 +139,7 @@ total_arr = []
 
 def obtain_article_info(link, need_log_in):
 
-    for attempt in range(3):
+    for attempt in range(11):
         try:
             time.sleep(5)
             driver.get(link)
