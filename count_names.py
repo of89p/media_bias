@@ -5,6 +5,8 @@ import time
 from collections import Counter
 import manage_database
 import datetime
+from urllib import request
+
 
 links_arr = []
 politician_names_arr = []
@@ -26,11 +28,25 @@ for x in link_arr_all:
     if x.startswith("https://www.straitstimes.com/singapore"):
         links_arr.append(x)
 
-print("Found "+str(len(links_arr))+" articles")
+print("Found "+str(len(links_arr))+" articles"+"\n")
 
-need_log_in = True
+# def internet_on():
+#     try:
+#         request.urlopen('http://216.58.192.142', timeout=1)
+#         return True
+#     except request.URLError as err:
+#         return False
+
+need_log_in = False
 LIMIT_COUNT = 3000
 count = 0
+ended_halfway = False
+
+def resume_from_interuption():
+    pass
+
+if ended_halfway:
+    resume_from_interuption()
 
 for link in links_arr:
     if count == LIMIT_COUNT:
@@ -39,7 +55,13 @@ for link in links_arr:
     found_names = []
 
     # print(link)
+    print("Attempting to fetch article " + str(count))
     article_data = obtain_article_info(link, need_log_in=True if count == 0 and need_log_in else False)
+
+    if article_data =="no internet":
+        print("FATAL ERROR: NO INTERNET")
+        exit()
+
 
     article_title = article_data[0]
     article_author = article_data[1]
@@ -49,19 +71,18 @@ for link in links_arr:
     for name in politician_names_arr:
         if name in article_text and name not in found_names:
             found_names.append(name)
-            manage_database.insert_name_instance(name, article_date, article_title, article_author, link, current_xml)
+            # manage_database.insert_name_instance(name, article_date, article_title, article_author, link, current_xml)
             # export_as_json.check_if_alr_exist(name, article_date)
 
     # print("Article published on: "+str(article_date))
-    print("Names found: "+str(found_names))
+    print("Fetched successfully. Names found: "+str(found_names)+"\n")
 
 
     for x in found_names:
         total_found_names.append(x)
 
     count += 1
-    print("Article " + str(count))
-    time.sleep(5)
+    # time.sleep(5)
 
 # file_name = str(datetime.datetime.now()) +".txt"
 # with open(file_name, "w") as text_file:

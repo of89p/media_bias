@@ -1,17 +1,15 @@
 import sqlite3
+import datetime
+
 import ast
 
 conn = sqlite3.connect('database.db')
 c = conn.cursor()
 
-# c.execute("""CREATE TABLE count_names(
+# c.execute("""CREATE TABLE internet_errors(
 #             id int,
-#             politician_name text,
-#             date_mentioned text,
-#             article_title text,
-#             article_author text,
-#             article_link text,
-#             XML int
+#             current_time text,
+#             url_tried_but_failed text
 #             )""")
 
 
@@ -74,6 +72,19 @@ def get_database_values(name, xml):
         with conn:
             c.execute("SELECT * FROM count_names WHERE politician_name=:politician_name AND XML=:xml",{"politician_name":name, "xml":xml})
             return c.fetchall()
+
+
+def insert_internet_error(current_link):
+    with conn:
+        c.execute("SELECT * FROM internet_errors ORDER BY id DESC LIMIT 1")
+        new_id = c.fetchone()[0] + 1
+
+    c.execute("INSERT INTO internet_errors VALUES (:id, :current_time, :, :article_title, :article_author, :article_link, :XML)",
+            {'id': new_id, 'politician_name': name, 'date_mentioned': date, 'article_title': article_title, 'article_author': article_author, 'article_link':article_link, 'XML':xml})
+    conn.commit()
+    print("NOTE: Added "+name+" to database")
+
+
 
 # insert_name_instance("J S Mill", "20 aug 2022", "test", "test", "test")
 

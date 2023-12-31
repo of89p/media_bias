@@ -1,10 +1,13 @@
 from selenium import webdriver
+from selenium.common import WebDriverException
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 import time
 import re
+from urllib import request
+
 
 ST_PASSWORD = ''
 from private.dev_settings import *
@@ -121,7 +124,12 @@ def log_in():
 #
 # get_all_links()
 
-
+def internet_on():
+    try:
+        request.urlopen('https://apple.com', timeout=1)
+        return True
+    except request.URLError as err:
+        return False
 
 
 
@@ -130,9 +138,31 @@ total_arr = []
 
 
 def obtain_article_info(link, need_log_in):
-    driver.get(link)
+
+    for attempt in range(3):
+        try:
+            time.sleep(5)
+            driver.get(link)
+        except WebDriverException:
+            if attempt == 0:
+                print("NO INTERNET, RETRYING...")
+            else:
+                print("STILL NO INTERNET, ATTEMPT: "+str(attempt)+"/10")
+            continue
+        break
+    else:
+        return("no internet")
+
+
+
+
+
     if need_log_in:
         log_in()
+
+    # if not internet_on():
+    #     print("internet connection lost")
+    #     exit()
 
     #GET TITLE
     try:
