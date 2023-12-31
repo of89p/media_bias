@@ -60,6 +60,7 @@ for link in links_arr:
 
     if article_data =="no internet":
         print("FATAL ERROR: NO INTERNET")
+        manage_database.insert_internet_error(link)
         exit()
 
 

@@ -79,10 +79,11 @@ def insert_internet_error(current_link):
         c.execute("SELECT * FROM internet_errors ORDER BY id DESC LIMIT 1")
         new_id = c.fetchone()[0] + 1
 
-    c.execute("INSERT INTO internet_errors VALUES (:id, :current_time, :, :article_title, :article_author, :article_link, :XML)",
-            {'id': new_id, 'politician_name': name, 'date_mentioned': date, 'article_title': article_title, 'article_author': article_author, 'article_link':article_link, 'XML':xml})
+    c.execute("INSERT INTO internet_errors VALUES (:id, :current_time, :url_tried_but_failed)",
+            {'id': new_id, 'current_time': datetime.datetime.now(), 'url_tried_but_failed': current_link})
     conn.commit()
-    print("NOTE: Added "+name+" to database")
+    print("SUCCESSFULLY ADDED ERROR LOG TO DATABASE")
+
 
 
 
