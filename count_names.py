@@ -9,7 +9,7 @@ import datetime
 links_arr = []
 politician_names_arr = []
 total_found_names = []
-current_xml = 32
+current_xml = 33
 
 # f = open("links_20_17.txt", "r")
 # links=f.read()
@@ -23,13 +23,13 @@ politician_names=a.read()
 politician_names_arr = politician_names.splitlines()
 
 for x in link_arr_all:
-    if x.startswith("https://www.straitstimes.com/singapore/politics"):
+    if x.startswith("https://www.straitstimes.com/singapore"):
         links_arr.append(x)
 
 print("Found "+str(len(links_arr))+" articles")
 
 need_log_in = True
-LIMIT_COUNT = 150
+LIMIT_COUNT = 3000
 count = 0
 
 for link in links_arr:

@@ -39,7 +39,10 @@ def graph(politician_name, xml):
             for word, initial in dic.items():
                 date = date.replace(word.lower(), initial)
 
-            results = datetime.strptime(date, '%b %d %Y').date()
+            try:
+                results = datetime.strptime(date, '%b %d %Y').date()
+            except:
+                print(date)
 
         # results = datetime.strptime(date, '%b %d %Y').date()
         # print(results)
@@ -53,14 +56,14 @@ def graph(politician_name, xml):
     a, b = zip(*w.items())
     print(a, b)
 
-    plt.plot_date(a, b)
+    plt.plot_date(a, b, linestyle='solid')
 
 
 
 
-graph("Lee Hsien Loong", (False, ))
-graph("Pritam Singh", (False, ))
-graph("Lawrence Wong", (False, ))
+graph("Lee Hsien Loong", (True, 33))
+graph("Pritam Singh", (True, 33))
+
 
 
 
