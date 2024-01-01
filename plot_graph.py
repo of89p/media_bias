@@ -17,6 +17,7 @@ dic = {"January": "Jan", "February": "Feb", "March":"Mar", "April": "Apr", "June
 
 def graph(politician_name, xml):
     arr = manage_database.get_database_values(politician_name, xml)
+    print(len(arr))
     new_date_arr = []
     for x in arr:
         date = ''
@@ -61,8 +62,8 @@ def graph(politician_name, xml):
 
 
 
-graph("Lee Hsien Loong", (True, 33))
-graph("Pritam Singh", (True, 33))
+graph("Lee Hsien Loong", (False, ))
+graph("Pritam Singh", (False, ))
 
 
 

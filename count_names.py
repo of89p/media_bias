@@ -11,7 +11,7 @@ from urllib import request
 links_arr = []
 politician_names_arr = []
 total_found_names = []
-current_xml = 33
+current_xml = 32
 
 # f = open("links_20_17.txt", "r")
 # links=f.read()
@@ -24,6 +24,8 @@ a = open("./clean_up_data/get_all_politician_names/politician_names.txt", "r")
 politician_names=a.read()
 politician_names_arr = politician_names.splitlines()
 
+countisojdfoisf = 0
+
 for x in link_arr_all:
     if x.startswith("https://www.straitstimes.com/singapore"):
         links_arr.append(x)
@@ -32,7 +34,7 @@ print("Found "+str(len(links_arr))+" articles"+"\n")
 
 
 
-need_log_in = False
+need_log_in = True
 LIMIT_COUNT = 3000
 count = 0
 ended_halfway = (False, "https://www.straitstimes.com/singapore/courts-crime/probation-report-called-for-youth-who-cheated-microsoft-of-laptops-worth-193k")

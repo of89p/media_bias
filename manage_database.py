@@ -1,15 +1,15 @@
 import sqlite3
 import datetime
-
+import time
 import ast
 
 conn = sqlite3.connect('database.db')
 c = conn.cursor()
 
-# c.execute("""CREATE TABLE internet_errors(
+# c.execute("""CREATE TABLE all_links(
 #             id int,
-#             current_time text,
-#             url_tried_but_failed text
+#             url text,
+#             xml int
 #             )""")
 
 
@@ -56,10 +56,24 @@ def insert_name_instance(name, date, article_title, article_author, article_link
         c.execute("SELECT * FROM count_names ORDER BY id DESC LIMIT 1")
         new_id = c.fetchone()[0] + 1
 
+        date = date.strip()
+
+        # c.execute('SELECT EXISTS(SELECT 1 FROM count_names WHERE article_link=:article_link)',{"article_link":article_link})
+        # if c.fetchone()[0] == 0:
+        #     #article does not exist
+        #     c.execute("INSERT INTO count_names VALUES (:id, :politician_name, :date_mentioned, :article_title, :article_author, :article_link, :XML)",
+        #             {'id': new_id, 'politician_name': name, 'date_mentioned': date, 'article_title': article_title, 'article_author': article_author, 'article_link':article_link, 'XML':xml})
+        #     conn.commit()
+        #     print("NOTE: Added "+name+" to database")
+        # else:
+        #     #article exists already
+        #     print("WARNING: Article already in database; Ignored and not added to DB.")
+
     c.execute("INSERT INTO count_names VALUES (:id, :politician_name, :date_mentioned, :article_title, :article_author, :article_link, :XML)",
             {'id': new_id, 'politician_name': name, 'date_mentioned': date, 'article_title': article_title, 'article_author': article_author, 'article_link':article_link, 'XML':xml})
     conn.commit()
     print("NOTE: Added "+name+" to database")
+
 
 
 def get_database_values(name, xml):
@@ -107,3 +121,17 @@ def insert_internet_error(current_link):
 
 
 #2-219;219-490
+
+
+# def insert_all_links(url, xml):
+#     time.sleep(0.5)
+#     with conn:
+#         c.execute("SELECT * FROM all_links ORDER BY id DESC LIMIT 1")
+#         new_id = c.fetchone()[0] + 1
+#
+#     c.execute("INSERT INTO all_links VALUES (:id, :url, :xml)",
+#             {'id': new_id, 'url': url, 'xml': xml})
+#     conn.commit()
+#     print("ADDED URL: "+url+" to database")
+
+# insert_all_links("test", 23)
