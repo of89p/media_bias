@@ -36,7 +36,3 @@ def compile_links():
                 f.write(x+"\n")
 
         print("Finished writing for xml "+str(xml))
-
-
-
-compile_links()
